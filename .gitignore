@@ -1,4 +1,8 @@
-*
+/*
+
 !README.md
 !.gitignore
-!"Technology/ARBO Testbed/*"
+
+!Technology/
+Technology/*
+!Technology/ARBO\ Testbed
