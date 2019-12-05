@@ -1,0 +1,1 @@
+/Applications/KiCad/kicad.app/Contents/Frameworks/Python.framework/Versions/Current/bin/python "/Users/matt/Box Sync/Biologging/Technology/KiCad/KiBoM/KiBOM_CLI.py" "%I" "%O"
