@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-img {
+p img {
 	border-radius: 15px;
 }
