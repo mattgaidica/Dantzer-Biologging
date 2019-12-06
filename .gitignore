@@ -9,5 +9,6 @@ Technology/*
 !Technology/KiCad
 
 !assets/
+!_layouts/
 
 *.DS_Store
