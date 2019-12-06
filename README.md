@@ -10,12 +10,12 @@ Broad, yet ambitious goals should act to focus efforts of the bio-logging commun
 2. _Communicate_ approaches and insights.
 3. _Innovate_ tools and technologies.
 
-More information about our community can be found online at [The International Bio-logging Society](https://www.bio-logging.net).
+We want to make our methods and tools **open source**. You can read more about our approach in [the Wiki](https://github.com/mattgaidica/biologging/wiki/Architecture).
 
-<ul class="downloads">
-<li><a href="#">View the <strong>Wiki</strong></a></li>
-</ul>
-
-![squirrels](https://github.com/mattgaidica/biologging/blob/master/assets/images/squirrels.jpg?raw=true)
 ## Why squirrels?
+![squirrels](https://github.com/mattgaidica/biologging/blob/master/assets/images/squirrels.jpg?raw=true)
 The ecological niche occupied by wild squirrels has been conserved for millions of years and is highlighted by their unique adaptations to arboreal life (i.e., in the trees). Their ability to regulate energy and maintain fitness through a variety of natural, and imposed challenges ultimately determines their odds of survival. Little is known about how the central nervous system (CNS) is involved in these natural behaviors. One of our goals is to use bio-loggers to record from the CNS of wild squirrels to understand how their physiology and behavior are correlated, given the varying demands of their environment. Adding resolution to these important ecological factors underlying animal fitness and survival is an important consideration to ongoing conservation work, potentially highlighting what ‘optimal adaptations’ are from a physiological perspective.
+
+---
+
+**More information about our community can be found online at [The International Bio-logging Society](https://www.bio-logging.net).**
