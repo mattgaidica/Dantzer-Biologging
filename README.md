@@ -2,15 +2,13 @@
 The use of miniaturized, animal-borne bio-loggers to make physiological and environmental measurements from free-ranging animals is radically transforming scientific capabilities [Williams et al., 2019](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13094). We have recently explored how to implement these technologies to expand the methods and resolution by which stress and performance are quantified in the wild [Gaidica & Dantzer, 2019](https://ecoevorxiv.org/huxw6/).
 
 ### Current Challenges
-Bio-logging constraints are not unlike those faced by human-based wearables. We require high-resolution neural and cardiac over long-duration studies in extreme environments. It will take significant strides in recording methodologies and technology to achieve these goals, but _now_ is a great time to pursue these challenges.
-
-Broad, yet ambitious goals should act to focus efforts of the bio-logging community:
+Bio-logging is historically niche due to the unique constraints of field biologists. From fish to birds, it is unreasonable to expect a one-size-fits-all solution. However, the ambitious goals of individuals *can and should* generalize to the bio-logging community under the following headings:
 
 1. _Standardize_ data collection and analysis methods.
 2. _Communicate_ approaches and insights.
 3. _Innovate_ tools and technologies.
 
-We want to make our methods and tools **open source**. You can read more about our approach in [the Wiki](https://github.com/mattgaidica/biologging/wiki/Architecture).
+We are doing our best to make our projects **open source**. You can read more about our approach in [the Wiki](https://github.com/mattgaidica/biologging/wiki/Architecture).
 
 ## Why squirrels?
 ![squirrels](https://github.com/mattgaidica/biologging/blob/master/assets/images/squirrels.jpg?raw=true)
