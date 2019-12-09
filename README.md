@@ -18,4 +18,4 @@ The ecological niche occupied by wild squirrels has been conserved for millions 
 
 ### Research Platform
 ![squirrel platform](https://github.com/mattgaidica/biologging/blob/master/assets/images/squirrel_platform.png?raw=true)
-Evolutionary pressures on wild animals engender advantageous platforms for study because behavior is so crucially linked with fitness. How mammalian physiology copes and adapts in response to changing environments is an important question that can benefit from the added resolution of bio-loggers and the associated challenges of long-duration studies in harsh environments.
+Evolutionary pressures on wild animals engender advantageous platforms for study because behavior is so crucially linked with fitness. How mammalian physiology copes and adapts in response to changing environments is an important question that can benefit from the added resolution of bio-loggers. In addition to scientific investigations, the squirrel is a useful model to address many outstanding technical challenges—not unique to ecology—that make long-duration studies in harsh environments possible.
