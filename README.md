@@ -17,3 +17,10 @@ The ecological niche occupied by wild squirrels has been conserved for millions 
 ### Research Platform
 ![squirrel platform](https://github.com/mattgaidica/biologging/blob/master/assets/images/squirrel_platform.png?raw=true)
 Evolutionary pressures on wild animals engender advantageous platforms for study because behavior is so crucially linked with fitness. How mammalian physiology copes and adapts in response to changing environments is an important question that can benefit from the added resolution of bio-loggers. In addition to scientific investigations, the squirrel is a useful model to address many outstanding technical challenges—not unique to ecology—that make long-duration studies in harsh environments possible.
+
+### Kluane Red Squirrel Project
+[The Kluane Red Squirrel Project](https://redsquirrel.biology.ualberta.ca) (KRSP) is an interdisciplinary, large-scale field experiment located in the Canadian Yukon. KRSP has been collecting ecological and behavioral data on squirrels since 1987 and conducts a variety of studies and surveys on the population and food availability every year.
+
+![whitehorse weather](https://github.com/mattgaidica/biologging/blob/master/assets/images/krsp_light_dark.png?raw=true)
+
+Squirrels in the Yukon face intense challenges including drastic changes in light/dark cycles through each season. During the summer months there is very little darkness (see image above). This natural rhythm makes KRSP and the squirrel an ideal candidate to study the affects of circadian entrainment.
