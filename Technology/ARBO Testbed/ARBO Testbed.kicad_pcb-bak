@@ -278,7 +278,7 @@
   )
 
   (module ARBO:squirrel-with-acorn_simple (layer F.Cu) (tedit 0) (tstamp 5DE8B863)
-    (at 122 82)
+    (at 122 81.5)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
