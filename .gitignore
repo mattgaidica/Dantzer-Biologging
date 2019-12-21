@@ -8,7 +8,8 @@ Technology/*
 !Technology/ARBO\ Testbed
 !Technology/KiCad
 
-!assets/
+!assets/images
+!assets/css
 !_layouts/
 
 *.DS_Store
