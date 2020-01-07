@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ARBO)(type KiCad)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/ARBO Parts")(options "")(descr ""))
+  (lib (name BGA64N50P8X8_450X450X80N)(type Legacy)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/ARBO Parts/BGA64N50P8X8_450X450X80N.mod")(options "")(descr ""))
+)

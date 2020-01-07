@@ -6,6 +6,7 @@
 !Technology/
 Technology/*
 !Technology/ARBO\ Testbed
+!Technology/ARBO\ Mini
 !Technology/KiCad
 
 !assets/images
@@ -13,3 +14,4 @@ Technology/*
 !_layouts/
 
 *.DS_Store
+*.SLDASM
