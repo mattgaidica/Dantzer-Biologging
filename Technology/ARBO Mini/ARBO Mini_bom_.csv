@@ -1,0 +1,48 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Manufacturer Part Number,Digi-key Part Number,Link
+1,Unpolarized capacitor,C,C11 C15 C18 C19 C22 C32 C35,0.1uF,C_0402_1005Metric,7,~,LMK105BJ104KV-F,587-1227-1-ND,
+2,Unpolarized capacitor,C,C13 C14 C20 C21 C25 C26 C27 C29 C30 C38,1000pF,C_0402_1005Metric,10,~,GRM1555C1H102JA01J,490-6190-1-ND,
+3,Unpolarized capacitor,C,C5 C6 C7 C23,10uF,C_0603_1608Metric,4,~,GRM155R60E106ME16D,490-10692-1-ND,
+4,Unpolarized capacitor,C,C1 C8 C16 C31 C34 C36 C37,1uF,C_0402_1005Metric,7,~,C0402C105K9PACTU,399-4873-1-ND,
+5,Unpolarized capacitor,C,C2 C3,22pF,C_0402_1005Metric,2,~,C0402C105K9PACTU,399-4873-1-ND,
+6,Unpolarized capacitor,C,C33,22uF,C_0603_1608Metric,1,~,GRM188R60J226MEA0D,490-7611-1-ND,
+7,"Polarized capacitor, US symbol",CP1,C4 C9 C10,3.3uF,C_0402_1005Metric,3,~,C1005X5R0G335K050BB,445-5948-1-ND,
+8,Unpolarized capacitor,C,C12 C17 C24 C28,4.7nF,C_0402_1005Metric,4,~,C0402C472K4RECAUTO,399-17875-1-ND,
+9,,JST-PH,CONN1,JST-PH,PinHeader_1x02_P2.00mm_Horizontal,1,,,,
+10,Light emitting diode,LED,D5,GRN,LED_0402_1005Metric,1,~,150040VS73240,732-11992-1-ND,
+11,Schottky diode,D_Schottky,D1,MBR120,D_SOD-123F,1,https://www.digikey.com/product-detail/en/on-semiconductor/MBR120VLSFT1G/MBR120VLSFT1GOSCT-ND/893874,MBR120VLSFT1G,MBR120VLSFT1GOSCT-ND,
+12,Light emitting diode,LED,D3 D4,RED,LED_0402_1005Metric,2,~,150040RS73240,732-11991-1-ND,
+13,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J3,Conn_01x10,Hirose_DF52-12S-0.8H_1x12-1MP_P0.80mm_Horizontal,1,~,DF52-12S-0.8H(21),H125103CT-ND,
+14,Micro SD Card Socket with card detection pins,Micro_SD_Card_473093351,J2,Micro_SD_Card_473093351,473093351_uSDCard,1,https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1,0473093351,WM10795CT-ND,
+15,USB Micro Type B connector,USB_B_Micro,J1,USB_B_Micro,USB_Micro-B_Molex-105017-0001,1,~,1050170001,WM1399CT-ND,
+16,Resistor,R,R6,0,R_0402_1005Metric,1,~,RC0402JR-070RL,311-0.0JRCT-ND,
+17,Resistor,R,R1 R5,100K,R_0402_1005Metric,2,~,RC0402FR-07100KL,311-100KLRCT-ND,
+18,Resistor,R,R3 R4 R8,10K,R_0402_1005Metric,3,~,RC0402FR-0710KL,311-10.0KLRCT-ND,
+19,Resistor,R,R16,1M,R_0402_1005Metric,1,~,RC0402FR-071ML,311-1.00MLRCT-ND,
+20,Resistor,R,R2 R7 R9 R10 R11 R12 R13 R14 R15 R17 R18,2.2K,R_0402_1005Metric,11,~,RC0402FR-072K2L,311-2.20KLRCT-ND,
+21,Single Pole Single Throw (SPST) switch,SW_SPST,SW1,SW_SPST,SW_SPST_CK_KXT3,1,~,KXT 331 LHS,CKN10779CT-ND,
+22,,ADS1294_TQFP,U7,ADS1294,TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm,1,,ADS1294IPAG,296-27932-ND,
+23,"SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP-48",ATSAMD21G18A-AUT,U6,ATSAMD21G18A-AUT,QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/SAMD21-Family-DataSheet-DS40001882D.pdf,ATSAMD21G18A-MUT,ATSAMD21G18A-MUTCT-ND,https://www.digikey.com/product-detail/en/microchip-technology/ATSAMD21G18A-MUT/ATSAMD21G18A-MUTCT-ND/4878880
+24,"InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI, QFN-24",ICM-20948,U3,ICM-20948,InvenSense_QFN-24_3x3mm_P0.4mm,1,http://www.invensense.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf,ICM-20948,1428-1123-1-ND,
+25,,MAX1726EUK18+,U5,MAX1726EUK18+,SOT-23-5,1,,MAX1726EUK18+T,MAX1726EUK18+T-ND,
+26,,MAX828,U2,MAX828,SOT-23-5,1,,MAX828EUK+T,MAX828EUK+TCT-ND,
+27,"FRAM memory with SPI interface, SOIC-8 SON-8",MB85RSxM_WLP8,U9,MB85RSxM_WLP8,BGA8CP30X40_5X3_309X228X35B25N,1,http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf,MB85RS1MTPW-G-APEWE1,865-1272-2-ND,
+28,"Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package",MCP73831-2-OT,U1,MCP73831-2-OT,SOT-23-5,1,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,MCP73831T-2ATI/OT,MCP73831T-2ATI/OTCT-ND,
+29,,SN74AUP1G98,U8,SN74AUP1G98,SOT-23-6,1,,SN74AUP1G98DBVR,296-19087-1-ND,
+30,"500mA Low drop-out regulator, Fixed Output 3.3V, SOT-23-5",SPX3819M5-L-3-3,U4,SPX3819M5-L-3-3,SOT-23-5,1,https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819,SPX3819M5-L-3-3/TR,1016-1873-1-ND,
+31,,SiT1532,U10,SiT1532,SiT1532,1,,SIT1532AI-J4-DCC-32.768E,1473-1240-1-ND,
+32,Two pin crystal,Crystal,Y1,Crystal,Crystal_SMD_3215-2Pin_3.2x1.5mm,1,~,FC-135 32.7680KA-A5,SER4103CT-ND,
+
+
+
+
+
+Component Groups:,32
+Component Count:,76
+Fitted Components:,76
+Number of PCBs:,1
+Total components:,76
+Schematic Version:,
+Schematic Date:,
+BoM Date:,"Wednesday, January 08, 2020 at 03:53:28 PM"
+Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ARBO Mini/ARBO Mini.sch
+KiCad Version:,Eeschema (5.1.2-1)-1
