@@ -1,3 +1,45 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MB85RS128B
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS1MT
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS256B
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS2MT
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS512T
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS64
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fme/fram/datasheet-MB85RS64.pdf
+$ENDCMP
+#
+$CMP MB85RSxM_WLP8
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
 #End Doc Library

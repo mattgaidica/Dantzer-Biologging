@@ -1,96 +1,124 @@
-15966641922967535
-ARBO
+15971395282674563
+ARBO Parts
 473093351_uSDCard
 
 
 0
 12
 12
-ARBO
+ARBO Parts
+aQFN94_7x7
+
+
+0
+95
+95
+ARBO Parts
 ARBO_IO3
 
 
 0
 3
 3
-ARBO
+ARBO Parts
 ARBO_IO6
 
 
 0
 6
 6
-ARBO
+ARBO Parts
 ARBO_IO8
 
 
 0
 8
 8
-ARBO
+ARBO Parts
 ARBO_IO10
 
 
 0
 10
 10
-ARBO
+ARBO Parts
 arbo_mini_squirrel
 
 
 0
 0
 0
-ARBO
+ARBO Parts
 ARBO_THERM
 
 
 0
 2
 2
-ARBO
+ARBO Parts
 ARBO_THERM2
 
 
 0
 2
 2
-ARBO
+ARBO Parts
+BGA-6_04pitch
+
+
+0
+6
+6
+ARBO Parts
 BGA8CP30X40_5X3_309X228X35B25N
 
 
 0
 8
 8
-ARBO
+ARBO Parts
 BGA64N50P8X8_450X450X80N
 
 
 0
 64
 64
-ARBO
+ARBO Parts
+hirose_DF37NB-10
+
+
+0
+12
+12
+ARBO Parts
 PA6512-AED
 
 
 0
 2
 2
-ARBO
+ARBO Parts
+RP152
+
+
+0
+6
+6
+ARBO Parts
 SiT1532
 
 
 0
 4
 4
-ARBO
+ARBO Parts
 squirrel-with-acorn_simple
 
 
 0
 0
 0
-ARBO
+ARBO Parts
 WLCSP45
 
 
@@ -363,13 +391,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-BGA64N50P8X8_450X450X80N
-BGA64N50P8X8_450X450X80N
-
-
-0
-64
-64
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
