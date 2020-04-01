@@ -1,0 +1,11 @@
+Set env variables:
+>> cd /Users/matt/Documents/Software/ncs/zephyr
+>> source zephyr-env.sh
+
+>> west build -b nrf5340_dk_nrf5340_cpuapp
+
+try setting board default?
+>> west config build.board nrf5340_dk_nrf5340_cpuapp
+
+Pristine builds:
+>> west build -p auto -b nrf5340_dk_nrf5340_cpuapp samples/hello_world
