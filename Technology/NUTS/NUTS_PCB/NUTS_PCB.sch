@@ -1420,4 +1420,20 @@ F 3 "" H 650 1150 50  0001 C CNN
 	1    650  1150
 	1    0    0    -1  
 $EndComp
+Text Notes 4900 1250 0    50   ~ 0
+D2 could have internal pull-up @ 3.3v though
+Text Notes 2300 6550 0    50   ~ 0
+what does this even do? rm 12v altogether
+Text Notes 5350 2050 0    50   ~ 0
+should be 4.7nF?
+Text Notes 5400 6550 0    50   ~ 0
+these pins are wrong, 2 = GND, 3 = OUT
+Text Notes 3500 6750 0    50   ~ 0
+use 5v as input
+Text Notes 5200 4500 0    50   ~ 0
+have more GPIO
+Text Notes 1900 1400 0    50   ~ 0
+this connector is wrong, either change to headers or wire properly
+Text Notes 950  6700 0    50   ~ 0
+get rid of 12v input
 $EndSCHEMATC
