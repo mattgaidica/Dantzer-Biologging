@@ -987,7 +987,7 @@ F 4 "WM1399CT-ND" H 1300 5950 50  0001 C CNN "digikey"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_SAMD:ATSAMD21G18A-AUT U3
+L NUTS_PCB-rescue:ATSAMD21G18A-AUT-MCU_Microchip_SAMD U3
 U 1 1 5E79844E
 P 8400 2900
 F 0 "U3" H 7650 4700 50  0000 C CNN
@@ -1436,4 +1436,6 @@ Text Notes 1900 1400 0    50   ~ 0
 this connector is wrong, either change to headers or wire properly
 Text Notes 950  6700 0    50   ~ 0
 get rid of 12v input
+Text Notes 1000 2950 0    50   ~ 0
+Probably need input diode on 5V USB if used for motor!
 $EndSCHEMATC
