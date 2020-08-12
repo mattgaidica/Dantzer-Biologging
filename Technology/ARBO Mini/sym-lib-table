@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name ARBO)(type Legacy)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/ARBO Parts/ARBO_library.lib")(options "")(descr ""))
+  (lib (name ARBO-Mini-rescue)(type Legacy)(uri "${KIPRJMOD}/ARBO Mini-rescue.lib")(options "")(descr ""))
 )

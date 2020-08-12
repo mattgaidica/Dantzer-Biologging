@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:ARBO Mini-cache
+EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -29,7 +30,7 @@ $EndComp
 Wire Wire Line
 	6250 1150 6400 1150
 $Comp
-L ARBO-Mini-rescue:ATSAMD21G18A-AUT-MCU_Microchip_SAMD U6
+L MCU_Microchip_SAMD:ATSAMD21G18A-AUT U6
 U 1 1 5DE77A6D
 P 13800 3000
 F 0 "U6" H 13000 4850 50  0000 C CNN
