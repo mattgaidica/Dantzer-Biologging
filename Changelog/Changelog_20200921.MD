@@ -1,1 +1,0 @@
-![Test](https://www.vyssotski.ch/Headstages.jpg)
