@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "ARBO Parts")(type KiCad)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/ARBO Parts")(options "")(descr ""))
   (lib (name Inductor_SMD)(type KiCad)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/Inductor_SMD.pretty")(options "")(descr ""))
+  (lib (name MyAntennas)(type KiCad)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/PCB_Antenna_Lib/MyAntennas.pretty")(options "")(descr ""))
 )

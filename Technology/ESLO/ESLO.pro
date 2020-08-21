@@ -1,4 +1,4 @@
-update=Friday, August 07, 2020 at 01:55:41 PM
+update=Friday, August 21, 2020 at 11:42:07 AM
 version=1
 last_client=kicad
 [general]
@@ -19,21 +19,24 @@ LastNetListRead=
 CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=1
-AllowBlindVias=0
+AllowBlindVias=1
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.127
-MinViaDiameter=0.4
-MinViaDrill=0.2
-MinMicroViaDiameter=0.2
+MinTrackWidth=0.15
+MinViaDiameter=0.254
+MinViaDrill=0.09999999999999999
+MinMicroViaDiameter=0.254
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
-TrackWidth1=0.127
-TrackWidth2=0.127
+TrackWidth1=0.15
+TrackWidth2=0.2
+TrackWidth3=0.3
 ViaDiameter1=0.8
 ViaDrill1=0.4
-ViaDiameter2=0.45
-ViaDrill2=0.2
+ViaDiameter2=0.254
+ViaDrill2=0.1
+ViaDiameter3=0.45
+ViaDrill3=0.2
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -66,12 +69,12 @@ Name=F.Cu
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
-Name=In1.Cu
-Type=0
+Name=GNDD
+Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
-Name=In2.Cu
-Type=0
+Name=VSSA
+Type=1
 Enabled=1
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
@@ -187,7 +190,7 @@ Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
 Name=B.Cu
-Type=1
+Type=2
 Enabled=1
 [pcbnew/Layer.B.Adhes]
 Enabled=1
@@ -230,8 +233,8 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
-TrackWidth=0.127
+Clearance=0.15
+TrackWidth=0.15
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.45

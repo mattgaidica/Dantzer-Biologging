@@ -15,6 +15,7 @@ Technology/*
 !assets/images
 !assets/css
 !_layouts/
+!Changelog
 
 *.DS_Store
 *.SLDASM
