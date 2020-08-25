@@ -1,0 +1,45 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey
+1,Single-cell battery,Battery_Cell,BT1,Coin Cell,BatteryHolder_Keystone_1058_1x2032,1,~,36-1058-ND
+2,Unpolarized capacitor,C,C13,1.5pF,C_0402_1005Metric,1,~,490-6212-2-ND
+3,Unpolarized capacitor,C,C8 C9,10nF,C_0402_1005Metric,2,~,490-6326-2-ND
+4,Unpolarized capacitor,C,C10,1nF,C_0402_1005Metric,1,~,490-6350-2-ND
+5,Unpolarized capacitor,C,C14,1pF,C_0402_1005Metric,1,~,490-6206-2-ND
+6,Unpolarized capacitor,C,C1 C2 C3 C4 C5,1uF,C_0402_1005Metric,5,~,399-4873-1-ND
+7,Unpolarized capacitor,C,C12,2.2nF,C_0402_1005Metric,1,~,311-1037-1-ND
+8,Unpolarized capacitor,C,C6 C7,2.2uF,C_0402_1005Metric,2,~,490-10451-1-ND
+9,Unpolarized capacitor,C,C16 C17,22pF,C_0402_1005Metric,2,~,311-1652-1-ND
+10,Unpolarized capacitor,C,C15,33nF,C_0402_1005Metric,1,~,490-11984-2-ND
+11,Unpolarized capacitor,C,C11,4.7pF,C_0402_1005Metric,1,~,490-5874-2-ND
+12,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J1,Imeas,TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal,1,~,
+13,"Jumper, normally closed",Jumper,JP1,Jumper,PinHeader_1x02_P2.54mm_Vertical,1,~,S9337-ND
+14,Inductor,L,L1,2.7nH,L_0402_1005Metric,1,~,2035-0402HP-2N7EJTSCT-ND
+15,Inductor,L,L3,3.9nH,L_0402_1005Metric,1,~,2035-0402HS-3N9EGTSCT-ND
+16,Inductor,L,L2,8.2nH,L_0402_1005Metric,1,~,2035-1500-1-ND
+17,"Net tie, 2 pins",Net-Tie_2,NT1,Net-Tie_2,SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,1,~,
+18,"Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x15,P5 P6,Digital,Socket_Strip_Arduino_1x15,2,,S7013-ND
+19,Resistor,R,R1,10k,R_0402_1005Metric,1,~,311-10.0KLRCT-ND
+20,Resistor,R,R4,22k,R_0402_1005Metric,1,~,311-22.0KLRCT-ND
+21,Resistor,R,R2,33k,R_0402_1005Metric,1,~,P33KDCCT-ND
+22,Resistor,R,R3,63.4k,R_0402_1005Metric,1,~,YAG3204CT-ND
+23,,AN91445_MG,U6,AN91445,AN91445_MG,1,,
+24,"250-mA Ultra-Low-Noise Low-IQ LDO, 1.5V, SOT-23",LP5907MFX-1.5,U2,LP5907MFX-1.5,SOT-23-5,1,http://www.ti.com/lit/ds/symlink/lp5907.pdf,296-40355-1-ND
+25,"250-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, SOT-23",LP5907MFX-1.8,U1,LP5907MFX-1.8,SOT-23-5,1,http://www.ti.com/lit/ds/symlink/lp5907.pdf,296-41463-1-ND
+26,,MAX1720,U3,MAX1720,SOT-23-6,1,,MAX1720EUTGOSCT-ND
+27,,TPS72325,U4,TPS72301DDCT,SOT-23-5,1,,296-38438-1-ND
+28,"nRF24L01+, Ultra low power 2.4GHz RF Transceiver, QFN20 4x4mm",nRF24L01P,U5,nRF24L01P,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,1,http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf,1490-1033-1-ND
+29,"Four pin crystal, GND on pins 2 and 4, small symbol",Crystal_GND24_Small,Y1,SXT21412AA16,SXT214,1,~,2388-SXT21412AA16-16.000M-ND
+
+
+
+
+
+Component Groups:,29
+Component Count:,37
+Fitted Components:,37
+Number of PCBs:,1
+Total components:,37
+Schematic Version:,
+Schematic Date:,jeu. 02 avril 2015
+BoM Date:,"Thursday, August 20, 2020 at 12:32:59 PM"
+Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ESLO_PSP/ESLO_PSP.sch
+KiCad Version:,Eeschema (5.1.5-0-10_14)

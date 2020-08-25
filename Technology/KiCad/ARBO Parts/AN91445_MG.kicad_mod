@@ -1,4 +1,4 @@
-(module AN91445_MG (layer F.Cu) (tedit 5F3E9198)
+(module AN91445_MG (layer F.Cu) (tedit 5F45379D)
   (fp_text reference ANT** (at 1.75 -5.725) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.07)))
   )
@@ -15,4 +15,5 @@
     (xy 2.963333 1.27) (xy -3.979333 1.27) (xy -3.98 2.12) (xy -4.487333 2.121495)
     (xy -4.487333 -5.08) (xy -2.794 -5.08) (xy -2.794 -1.27)) (layer F.Cu) (width 0.01))
   (pad 1 smd circle (at -4.23 1.97) (size 0.25 0.25) (layers F.Cu F.Paste))
+  (pad 2 thru_hole circle (at 2.72 1.02) (size 0.45 0.45) (drill 0.2) (layers *.Cu *.Mask))
 )
