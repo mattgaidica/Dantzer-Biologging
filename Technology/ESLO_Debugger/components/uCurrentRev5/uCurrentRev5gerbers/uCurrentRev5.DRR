@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: uCurrentRev5.PcbDoc   19/12/2013  8:53:40 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : uCurrentRev5-RoundHoles.TXT
+ASCII SlotHoles File : uCurrentRev5-SlotHoles.TXT
+EIA File   : uCurrentRev5.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          4                7.87 mm (0.31 Inch)
+T2        1.55mm (61.024mil)       Round          16               144.22 mm (5.68 Inch)
+T3        4.25mm (167.323mil)      Slot           4                7292.70 mm (287.11 Inch)
+T4        2.1mm (82.677mil)        Slot           1         NPTH   7227.71 mm (284.56 Inch)
+T5        3.5mm (137.795mil)       Round          4         NPTH   159.76 mm (6.29 Inch)
+---------------------------------------------------------------------------
+Totals                                            29               14832.25 mm (583.95 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
