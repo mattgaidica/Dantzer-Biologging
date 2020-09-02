@@ -2237,4 +2237,10 @@ Wire Wire Line
 Connection ~ 12600 4550
 Wire Wire Line
 	12600 4550 12950 4550
+Text Notes 950  8700 0    50   ~ 0
+!! Use 2v source
+Text Notes 1250 700  0    50   ~ 0
+!! Change to 2v
+Text Notes 8100 3050 0    50   ~ 0
+If USB only works @3v, maybe the 2v line can be an input and regulated to 3.3v for debugging? \n(1) Requires 3.3v compliance for all components\n(2) Would EEG behave differently? Is ‘debugging’ still valid?
 $EndSCHEMATC

@@ -45,7 +45,7 @@ F 0 "RV1" H 3331 3396 50  0000 R CNN
 F 1 "100K" H 3331 3305 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Vishay_T73XW_Horizontal" H 3400 3350 50  0001 C CNN
 F 3 "~" H 3400 3350 50  0001 C CNN
-F 4 "311-100KLRCT-ND" H 3400 3350 50  0001 C CNN "Digi-Key"
+F 4 "T93YB-100K-ND" H 3400 3350 50  0001 C CNN "Digi-Key"
 	1    3400 3350
 	1    0    0    -1  
 $EndComp

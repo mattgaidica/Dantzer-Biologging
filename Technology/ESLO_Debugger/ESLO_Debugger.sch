@@ -386,4 +386,6 @@ Wire Wire Line
 Wire Wire Line
 	3000 2950 3700 2950
 Connection ~ 2400 2700
+Text Notes 1450 3950 0    50   ~ 0
+See Figure 44-14: it doesn’t show line level being an issue?
 $EndSCHEMATC

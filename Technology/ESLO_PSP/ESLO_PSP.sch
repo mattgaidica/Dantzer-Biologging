@@ -128,8 +128,6 @@ $EndComp
 Connection ~ 2400 1200
 Wire Wire Line
 	1300 1500 1300 1600
-Wire Wire Line
-	1300 1600 2050 1600
 $Comp
 L ARBO_library:MAX1720 U3
 U 1 1 5F449236
@@ -442,7 +440,7 @@ Vo=-1.186*(1+33000/63400)
 Wire Wire Line
 	3650 1500 3650 1600
 Wire Wire Line
-	3650 1600 4450 1600
+	3650 1600 3950 1600
 Text Notes 2900 2350 0    50   ~ 0
 (-3v)\n
 $Comp
@@ -1087,20 +1085,30 @@ $EndComp
 $Comp
 L Connector:TestPoint TP5
 U 1 1 5F3F265E
-P 2050 1600
-F 0 "TP5" H 2108 1718 50  0000 L CNN
-F 1 "TPGNDD" H 2108 1627 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Keystone_5000-5004_Miniature" H 2250 1600 50  0001 C CNN
-F 3 "~" H 2250 1600 50  0001 C CNN
-F 4 "36-5000-ND" H 2050 1600 50  0001 C CNN "Digikey"
-	1    2050 1600
+P 3950 1600
+F 0 "TP5" H 4008 1718 50  0000 L CNN
+F 1 "TPGNDD" H 4008 1627 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Keystone_5000-5004_Miniature" H 4150 1600 50  0001 C CNN
+F 3 "~" H 4150 1600 50  0001 C CNN
+F 4 "36-5000-ND" H 3950 1600 50  0001 C CNN "Digikey"
+	1    3950 1600
 	1    0    0    -1  
 $EndComp
-Connection ~ 2050 1600
-Wire Wire Line
-	2050 1600 2700 1600
 Text Notes 200  1450 0    50   ~ 0
 Should this be to +1.8v for the LP5907-1.5?
 Text Notes 4500 3150 0    50   ~ 0
 NO CAP!!
+Connection ~ 3950 1600
+Wire Wire Line
+	3950 1600 4450 1600
+Wire Wire Line
+	1300 1600 2700 1600
+Text Notes 1250 2800 0    50   ~ 0
+*Does not have a pulldown
+Text Notes -250 2650 0    50   ~ 0
+10k = 300uA dummy, use 1M
+Text Notes 9700 2650 0    50   ~ 0
+USB
+Text Notes 5500 3000 0    50   ~ 0
+R1=21.5k, RMCF0402FT21K5CT-ND\nR2=80.6k, RMCF0402FT80K6CT-ND‎
 $EndSCHEMATC
