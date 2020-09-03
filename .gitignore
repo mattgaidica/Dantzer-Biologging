@@ -14,8 +14,7 @@ Technology/*
 !Technology/NUTS
 !Technology/KiCad
 
-!assets/images
-!assets/css
+!assets
 !_layouts/
 
 *.DS_Store
