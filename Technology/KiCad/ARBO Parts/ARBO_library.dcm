@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP C_Pack04
+D 4 capacitor network, parallel topology, DIP package
+K C network parallel topology isolated
+F ~
+$ENDCMP
+#
 $CMP MB85RS128B
 D FRAM memory with SPI interface, SOIC-8 SON-8
 K FRAM SPI 3.3V
