@@ -1,0 +1,52 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey,Mouser
+1,Antenna,Antenna,AE1,2450AT42B100,2450AT42B100,1,~,712-1600-1-ND,
+2,Unpolarized capacitor,C,C3 C11 C15 C17 C20 C22 C23 C25 C26 C27 C28 C29,0.1uF,C_0402_1005Metric,12,~,490-6328-1-ND,
+3,Unpolarized capacitor,C,C7,0.22uF,C_0402_1005Metric,1,~,1276-1176-6-ND,
+4,Unpolarized capacitor,C,C10,10nF,C_0402_1005Metric,1,~,490-6326-2-ND,
+5,Unpolarized capacitor,C,C1 C2 C4 C6,10uF,C_0603_1608Metric,4,~,490-3896-1-ND,
+6,Unpolarized capacitor,C,C19,1nF,C_0402_1005Metric,1,~,490-6350-2-ND,
+7,Unpolarized capacitor,C,C5 C9 C14 C16 C18 C21 C24,1uF,C_0402_1005Metric,7,~,399-4873-1-ND,
+8,Unpolarized capacitor,C,C8 C12,2.2uF,C_0402_1005Metric,2,~,490-12532-1-ND,
+9,Unpolarized capacitor,C,C13,22uF,C_0603_1608Metric,1,~,1276-2867-1-ND,
+10,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN2 CN3,1000pF,0508_array,2,~,478-W2A45C102KAT2ACT-ND,
+11,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN4 CN5,1uF,0508_array,2,~,,581-W2L16D105MAT1A
+12,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN1,4700pF,0508_array,1,~,,581-W2A41C472KAT2A
+13,Light emitting diode,LED,D1,LED,LED_0603_1608Metric,1,~,732-4971-1-ND,
+14,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J2,Board to Board,ARBO_IO6_1.27mm,1,~,H125100CT-ND,
+15,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10_Female,J1,Conn_01x10_Female,ARBO_IO10_1.27mm,1,~,H125102CT-ND,
+16,Inductor,L,L3,1.5nH,L_0402_1005Metric,1,~,712-1411-1-ND,
+17,Inductor,L,L1,2.2uH,L_0805_2012Metric,1,~,490-7781-1-ND,
+18,Inductor,L,L4,3.3nH,L_0402_1005Metric,1,~,712-1416-1-ND,
+19,Inductor,L,L2,BLM18HE152SN1,L_0603_1608Metric,1,~,490-5216-1-ND,
+20,"Net tie, 2 pins",Net-Tie_2,NT1,Net-Tie_2,NetTie-2_SMD_Pad0.5mm,1,~,,
+21,Resistor,R,R1 R2 R3 R8,100k,LED_0402_1005Metric,4,~,311-100KLRCT-ND,
+22,Resistor,R,R4,21.5k,R_0402_1005Metric,1,~,RMCF0402FT21K5CT-ND,
+23,Resistor,R,R6 R7,4.7k,R_0402_1005Metric,2,~,311-4.7KJRCT-ND,
+24,Resistor,R,R5,80.6k,R_0402_1005Metric,1,~,RMCF0402FT80K6CT-ND,
+25,"4 resistor network, parallel topology, DIP package",R_Pack04,RN3 RN4,1M,0502_array,2,~,Y6105CT-ND,
+26,"4 resistor network, parallel topology, DIP package",R_Pack04,RN1 RN2,4.7k,0502_array,2,~,Y6472CT-ND,
+27,,2450BM14G0011,U10,2450BM14G0011,2450BM14G0011,1,,712-1620-1-ND,
+28,,ADS1294,U9,ADS1294,BGA-64_8x8_8.0x8.0mm_ADS129x,1,,296-28024-1-ND,
+29,,CC2652RB,U8,CC2652RB,QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm,1,,296-CC2652RB1FRGZRCT-ND,
+30,"FRAM memory with SPI interface, SOIC-8 SON-8",MB85RS2MT,U3,CY15V104QI-20LPXC,8-GQFN_FRAM_3.28mm-3.23mm,1,http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf,428-4724-ND,
+31,"250-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, SOT-23",LP5907MFX-1.8,U5,LP5907MFX-1.5,SOT-23-5,1,http://www.ti.com/lit/ds/symlink/lp5907.pdf,296-40355-1-ND,
+32,,LSM303AGR,U4,LSM303AGR,LGA-12_2x2mm_P0.5mm,1,,497-16527-1-ND,
+33,,MAX1720,U1,MAX1720,SOT-23-6,1,,MAX1720EUTGOSCT-ND,
+34,,IS37SML01G1,U7,MT29F2G01ABBGDWB-IT:G TR,8x6mm_WSON_UTSO,1,,557-1665-1-ND,
+35,,TPS62740,U2,TPS62740,WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65,1,,296-39459-1-ND,
+36,,TPS72325,U6,TPS72301DDCT,SOT-23-5,1,,296-38438-1-ND,
+
+
+
+
+
+Component Groups:,36
+Component Count:,65
+Fitted Components:,65
+Number of PCBs:,1
+Total components:,65
+Schematic Version:,
+Schematic Date:,
+BoM Date:,"Thursday, September 24, 2020 at 05:40:39 PM"
+Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ESLO_RB/ESLO_RB.sch
+KiCad Version:,Eeschema (5.1.5-0-10_14)
