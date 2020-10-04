@@ -1,4 +1,4 @@
-16085008465902585
+16003310349135563
 ARBO Parts
 8-GQFN_FRAM_3.28mm-3.23mm
 
@@ -45283,13 +45283,6 @@ inductor
 4
 2
 Inductor_SMD
-L_1008_2520Metric
-Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator
-inductor
-0
-2
-2
-Inductor_SMD
 L_1206_3216Metric
 Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 inductor
@@ -45388,13 +45381,6 @@ inductor handsolder
 2
 2
 Inductor_SMD
-L_Abracon_ASPI-0630LR
-smd shielded power inductor https://abracon.com/Magnetics/power/ASPI-0630LR.pdf
-inductor abracon smd shielded
-0
-2
-2
-Inductor_SMD
 L_Abracon_ASPI-3012S
 smd shielded power inductor http://www.abracon.com/Magnetics/power/ASPI-3012S.pdf
 inductor abracon smd shielded
@@ -45423,30 +45409,9 @@ Bourns SRN6028 SMD inductor
 2
 2
 Inductor_SMD
-L_Bourns-SRN8040_8x8.15mm
-Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf
-Bourns SRN8040 SMD inductor
-0
-2
-2
-Inductor_SMD
 L_Bourns-SRR1005
 Bourns SRR1005 series SMD inductor
 Bourns SRR1005 SMD inductor
-0
-2
-2
-Inductor_SMD
-L_Bourns-SRU1028_10.0x10.0mm
-Bourns SRU1028 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRU1028.pdf
-Bourns SRU1028 SMD inductor
-0
-2
-2
-Inductor_SMD
-L_Bourns-SRU8028_8.0x8.0mm
-Bourns SRU8028 series SMD inductor
-Bourns SRU8028 SMD inductor
 0
 2
 2
@@ -45465,23 +45430,9 @@ Bourns SDR1806
 2
 2
 Inductor_SMD
-L_Bourns_SRF1260
-Inductor, Bourns, SRF1260, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)
-Inductor Bourns_SRF1260
-0
-4
-4
-Inductor_SMD
 L_Bourns_SRN6045TA
 http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
 Semi-shielded Power Inductor
-0
-2
-2
-Inductor_SMD
-L_Bourns_SRN8040TA
-https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf
-Inductor
 0
 2
 2
@@ -45500,20 +45451,6 @@ Bourns SRR1260 SMD inductor
 4
 2
 Inductor_SMD
-L_Bourns_SRP5030T
-Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)
-Inductor Bourns_SRP5030T
-0
-2
-2
-Inductor_SMD
-L_Bourns_SRP7028A_7.3x6.6mm
-Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
-Shielded Inductors Bourns SMD SRP7028A
-0
-2
-2
-Inductor_SMD
 L_Bourns_SRR1210A
 Bourns SRR1210A series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf
 Bourns SRR1210A SMD inductor
@@ -45529,22 +45466,15 @@ Bourns SRR1260 SMD inductor
 2
 Inductor_SMD
 L_Coilcraft_LPS4018
-SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf
+SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/misc/lps4018d.html
 L Coilcraft LPS4018
 0
-2
+14
 2
 Inductor_SMD
 L_Coilcraft_LPS5030
 Shielded Power Inductor SMD, Coilcraft LPS5030, https://www.coilcraft.com/pdfs/lps5030.pdf, StepUp generated footprint
 inductor
-0
-2
-2
-Inductor_SMD
-L_Coilcraft_XAL60xx_6.36x6.56mm
-Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
-L Coilcraft XAL60xx
 0
 2
 2
@@ -45576,41 +45506,6 @@ L Coilcraft XxL4040
 0
 2
 2
-Inductor_SMD
-L_CommonModeChoke_Coilcraft_0603USB
-Coilcraft 0603USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0603usb.pdf
-surface mount common mode bead
-0
-4
-4
-Inductor_SMD
-L_CommonModeChoke_Coilcraft_0805USB
-Coilcraft 0805USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0805usb.pdf
-surface mount common mode bead
-0
-4
-4
-Inductor_SMD
-L_CommonModeChoke_Coilcraft_1812CAN
-Coilcraft 1812CAN Series Common Mode Choke, https://www.coilcraft.com/pdfs/1812can.pdf
-surface mount common mode bead
-0
-4
-4
-Inductor_SMD
-L_CommonModeChoke_Wuerth_WE-SL5
-WE-SL5 SMT Common Mode Line Filter, https://www.we-online.de/katalog/en/WE-SL5/, https://www.we-online.de/katalog/datasheet/744272471.pdf
-SMT Common Mode Line Filter
-0
-4
-4
-Inductor_SMD
-L_CommonMode_Delevan_4222
-API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf
-surface mount common mode bead
-0
-4
-4
 Inductor_SMD
 L_CommonMode_Wuerth_WE-SL2
 http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1
@@ -45650,20 +45545,6 @@ Inductor_SMD
 L_Murata_DEM35xxC
 https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx
 Inductor SMD DEM35xxC
-0
-2
-2
-Inductor_SMD
-L_Murata_LQH2MCNxxxx02_2.0x1.6mm
-Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)
-chip coil inductor Murata LQH2MC
-0
-2
-2
-Inductor_SMD
-L_Murata_LQH55DN_5.7x5.0mm
-Inductor, SMD, 5.7x5.0x4.7mm, https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf
-inductor smd
 0
 2
 2
@@ -45753,162 +45634,162 @@ Neosid Air-Coil SML 6turn HAM0631A
 2
 Inductor_SMD
 L_Neosid_MicroCoil_Ms36-L
-Neosid, Micro Coil, Inductor, Ms36-L, SMD, Fixed inductor, anti clockwise, https://neosid.de/en/products/inductors/rod-core-chokes/smd-rod-core-chokes/52026/ms-36/7-h?c=94
-Neosid Micro Coil Inductor Ms36-L SMD Fixed inductor anti clockwise
+Neosid, Micro Coil, Inductor, Ms36-L, SMD, Festinduktivitaet, anti clockwise,
+Neosid Micro Coil Inductor Ms36-L SMD Festinduktivitaet anti clockwise
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms42
-Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_Ms42.pdf
-Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded
+Neosid, Inductor, SMs42, Festinduktivitaet, SMD, magneticaly shielded,
+Neosid Inductor SMs42 Festinduktivitaet SMD magneticaly shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms50
-Neosid, Power Inductor, Ms50, SMD, Fixed inductor, https://neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf
-Neosid Power Inductor Ms50 SMD Fixed inductor
+Neosid, Power Inductor, Ms50, SMD, Festinduktivitaet,
+Neosid Power Inductor Ms50 SMD Festinduktivitaet
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms50T
-Neosid, Power Inductor, Ms50T, SMD, Fixed inductor,  high temperature, https://neosid.de/import-data/product-pdf/neoFestind_Ms50T.pdf
-Neosid Power Inductor Ms50T SMD Fixed inductor high temperature
+Neosid, Power Inductor, Ms50T, SMD, Festinduktivitaet,  high temperature,
+Neosid Power Inductor Ms50T SMD Festinduktivitaet high temperature
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms85
-Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85.pdf
-Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD
+Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,
+Neosid Ms85 Ms85T SMD Inductor Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms85T
-Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85T.pdf
-Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD
+Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,
+Neosid Ms85 Ms85T SMD Inductor Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms95
-Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95.pdf
-NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,
+NeosidInductorMs95 Ms95a Ms95T Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms95T
-Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95T.pdf
-NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,
+NeosidInductorMs95 Ms95a Ms95T Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms95a
-Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95a.pdf
-NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,
+NeosidInductorMs95 Ms95a Ms95T Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE95H
-Neosid, Inductor,SM-NE95H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE95H.pdf
-Neosid Inductor SM-NE95H Fixed inductor SMD
+Neosid, Inductor,SM-NE95H, Festinduktivitaet, SMD,
+Neosid Inductor SM-NE95H Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE127
-Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf
-Neosid Inductor SM-NE127 Fixed inductor SMD
+Neosid, Inductor, SM-NE127, Festinduktivitaet, SMD,
+Neosid Inductor SM-NE127 Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE127_HandSoldering
-Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf
-Neosid Inductor SM-NE127 Fixed inductor SMD
+Neosid, Inductor, SM-NE127, Festinduktivitaet, SMD,
+Neosid Inductor SM-NE127 Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE150
-Neosid, Inductor, SM-NE150, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE150.pdf
-Neosid Inductor SM-NE150 Fixed inductor SMD
+Neosid, Inductor, SM-NE150, Festinduktivitaet, SMD,
+Neosid Inductor SM-NE150 Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC0512H
-Neosid, Inductor, PIC0512H, Power Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0512H.pdf
-Neosid Inductor PIC0512H Power Inductor Fixed inductor SMD
+Neosid, Inductor, PIC0512H, Power Inductor, Festinduktivitaet, SMD,
+Neosid Inductor PIC0512H Power Inductor Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC0602H
-Neosid, Power Inductor, SM-PIC0602H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0602H.pdf
-Neosid Power Inductor SM-PIC0602H Fixed inductor SMD
+Neosid, Power Inductor, SM-PIC0602H, Festinduktivitaet, SMD,
+Neosid Power Inductor SM-PIC0602H Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC0612H
-Neosid, Power Inductor, SM-PIC0612H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0612H.pdf
-Neosid Power Inductor SM-PIC0612H Fixed inductor SMD
+Neosid, Power Inductor, SM-PIC0612H, Festinduktivitaet, SMD,
+Neosid Power Inductor SM-PIC0612H Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC1004H
-Neosid, Inductor, SM-PIC1004H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf
-Neosid Inductor SM-PIC1004H Fixed inductor SMD
+Neosid, Inductor, SM-PIC1004H, Festinduktivitaet, SMD,
+Neosid Inductor SM-PIC1004H Festinduktivitaet SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMS-ME3010
-Neosid, Inductor, SMS-ME3010, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3010.pdf
-Neosid Inductor SMS-ME3010 Fixed inductor SMD magnetically shielded
+Neosid, Inductor, SMS-ME3010, Festinduktivitaet, SMD, magnetically shielded,
+Neosid Inductor SMS-ME3010 Festinduktivitaet SMD magnetically shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMS-ME3015
-Neosid, Power Inductor, SMS-ME3015, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3015.pdf
-Neosid Power Inductor SMS-ME3015 Fixed inductor SMD magnetically shielded
+Neosid, Power Inductor, SMS-ME3015, Festinduktivitaet, SMD, magnetically shielded,
+Neosid Power Inductor SMS-ME3015 Festinduktivitaet SMD magnetically shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs42
-Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs42.pdf
-Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded
+Neosid, Inductor, SMs42, Festinduktivitaet, SMD, magneticaly shielded,
+Neosid Inductor SMs42 Festinduktivitaet SMD magneticaly shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs50
-Neosid, Inductor, SMs50, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs50.pdf
-Neosid Inductor SMs50 Fixed inductor SMD magneticaly shielded
+Neosid, Inductor, SMs50, Festinduktivitaet, SMD, magneticaly shielded,
+Neosid Inductor SMs50 Festinduktivitaet SMD magneticaly shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs85
-Neosid, Inductor, SMs85, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs85.pdf
-Neosid Inductor SMs85 Fixed inductor SMD magnetically shielded
+Neosid, Inductor, SMs85, Festinduktivitaet, SMD, magnetically shielded,
+Neosid Inductor SMs85 Festinduktivitaet SMD magnetically shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs95_SMs95p
-Neosid, Inductor, SMs95, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMs95SMs95p.pdf
-Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded
+Neosid, Inductor, SMs95, Festinduktivitaet, SMD, magnetically shielded,
+Neosid Inductor SMs95 Festinduktivitaet SMD magnetically shielded
 0
 2
 2
@@ -45965,111 +45846,6 @@ Inductor_SMD
 L_SigTra_SC3316F
 http://www.signaltransformer.com/sites/all/pdf/smd/P080_SC3316F.pdf
 Choke 
-0
-2
-2
-Inductor_SMD
-L_Sumida_CDMC6D28_7.25x6.5mm
-SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)
-Inductor Sumida SMD CDMC6D28
-0
-2
-2
-Inductor_SMD
-L_Sunlord_MWSA0518_5.4x5.2mm
-Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm
-inductor Sunlord smd
-0
-2
-2
-Inductor_SMD
-L_TDK_NLV25_2.5x2.0mm
-TDK NLV25, 2.5x2.0x1.8mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf
-tdk nlv25 nlcv25 nlfv25
-0
-2
-2
-Inductor_SMD
-L_TDK_NLV32_3.2x2.5mm
-TDK NLV32, 3.2x2.5x2.2mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf
-tdk nlv32 nlcv32 nlfv32
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF6025
-Inductor, TDK, SLF6025, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6025_en.pdf)
-Inductor TDK_SLF6025
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF6028
-Inductor, TDK, SLF6028, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6028_en.pdf)
-Inductor TDK_SLF6028
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF6045
-Inductor, TDK, SLF6045, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6045_en.pdf)
-Inductor TDK_SLF6045
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF7032
-Inductor, TDK, SLF7032, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7032_en.pdf)
-Inductor TDK_SLF7032
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF7045
-Inductor, TDK, SLF7045, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7045_en.pdf)
-Inductor TDK_SLF7045
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF7055
-Inductor, TDK, SLF7055, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7055_en.pdf)
-Inductor TDK_SLF7055
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF10145
-Inductor, TDK, SLF10145, 10.1mmx10.1mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf10145-h_en.pdf)
-Inductor TDK_SLF10145
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF10165
-Inductor, TDK, SLF10165, 10.1mmx10.1mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf10165_en.pdf)
-Inductor TDK_SLF10165
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF12555
-Inductor, TDK, SLF12555, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)
-Inductor SLF12555
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF12565
-Inductor, TDK, SLF12565, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf12565-h_en.pdf)
-Inductor SLF12565
-0
-2
-2
-Inductor_SMD
-L_TDK_SLF12575
-Inductor, TDK, SLF12575, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf12575-h_en.pdf)
-Inductor SLF12575
 0
 2
 2
@@ -46217,27 +45993,6 @@ Inductor_SMD
 L_Taiyo-Yuden_NR-80xx_HandSoldering
 Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-80xx, 8.0mmx8.0mm
 inductor taiyo-yuden nr smd
-0
-2
-2
-Inductor_SMD
-L_Taiyo-Yuden_NR-10050_9.8x10.0mm
-Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N
-inductor taiyo-yuden nr smd
-0
-2
-2
-Inductor_SMD
-L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering
-Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N
-inductor taiyo-yuden nr smd
-0
-2
-2
-Inductor_SMD
-L_TracoPower_TCK-047_5.2x5.8mm
-Inductor, Traco, TCK-047, 5.2x5.8mm, https://www.tracopower.com/products/tck047.pdf
-inductor smd traco
 0
 2
 2
@@ -46565,101 +46320,101 @@ inductor Wuerth smd
 2
 Inductor_SMD
 L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL
-Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ L, Typ XL, Typ XXL, https://katalog.we-online.com/pbs/datasheet/744874001.pdf
-Choke Coupled Double Inductor SMD Wuerth WE-DD TypL TypXL TypXXL 
+Choke, Double, Doppeldrossel,  SMD, , Wuerth, WE-DD, Typ L, Typ XL, Typ XXL,
+Choke Double Doppeldrossel SMD  Wuerth WE-DD TypL TypXL TypXXL 
 0
 4
 4
 Inductor_SMD
 L_Wuerth_WE-DD-Typ-M-Typ-S
-Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744878001.pdf, https://katalog.we-online.de/pbs/datasheet/744877001.pdf
-Choke Coupled Double Inductor SMD Wuerth WE-DD TypM TypS
+Choke, Double, Doppeldrossel,  SMD, , Wuerth, WE-DD, Typ M, Typ S,
+Choke Double Doppeldrossel SMD  Wuerth WE-DD TypM TypS 
 0
 4
 4
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-7345
-Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, 7345, https://katalog.we-online.com/pbs/datasheet/744777001.pdf
-Choke Shielded Power Inductor WE-PD 7345 Wuerth
+Choke, Drossel, WE-PD Typ LS, Wuerth, SMD,
+Choke Drossel WE-PDTypLS Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-LS
-Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
-Choke Shielded Power Inductor WE-PD TypLS Wuerth
+Choke, Drossel, WE-PD Typ LS, Wuerth, SMD,
+Choke Drossel WE-PDTypLS Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-LS_Handsoldering
-Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, Handsoldering, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
-Choke Shielded Power Inductor WE-PD TypLS Wuerth
+Choke, Drossel, WE-PD Typ LS, Wuerth, SMD, Handsoldering,
+Choke Drossel WE-PDTypLS Wuerth SMD Handsoldering 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-M-Typ-S
-Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744778005.pdf
-Choke Shielded Power Inductor WE-PD TypM TypS Wuerth
+Choke, Drossel, WE-PD, Typ M, Typ S, Wuerth, SMD,
+Choke Drossel WE-PD TypM TypS Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-M-Typ-S_Handsoldering
-Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, Handsoldering, https://katalog.we-online.com/pbs/datasheet/744778005.pdf
-Choke Shielded Power Inductor WE-PD TypM TypS Wuerth
+Choke, Drossel, WE-PD, Typ M, Typ S, Wuerth, SMD, Handsoldering,
+Choke Drossel WE-PD TypM TypS Wuerth SMD Handsoldering 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD2-Typ-L
-Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ L, , https://katalog.we-online.com/pbs/datasheet/74477510.pdf
-Choke Power Inductor WE-PD2 TypL Wuerth
+Choke, Drossel, WE-PD2, Typ L, Wuerth, SMD,
+Choke Drossel WE-PD2 TypL Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD2-Typ-MS
-Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf
-Choke Power Inductor WE-PD2 TypMS Wuerth
+Choke, Drossel, WE-PD2, Typ MS, Wuerth, SMD,
+Choke Drossel WE-PD2 TypMS Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD2-Typ-XL
-Power Inductor, Wuerth Elektronik, WE-PD2, SMT, Typ XL, https://katalog.we-online.com/pbs/datasheet/744776012.pdf
-Choke Power Inductor WE-PD2 TypXL Wuerth
+Choke, Drossel, WE-PD2, Typ XL, Wuerth, SMD,
+Choke Drossel WE-PD2 TypXL Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD4-Typ-X
-Power Inductor, Wuerth Elektronik, WE-PD4, SMT, Typ X, https://katalog.we-online.de/pbs/datasheet/74458001.pdf
-Choke Power Inductor WE-PD4 TypX Wuerth
+Choke, Drossel, WE-PD4, Typ X, Wuerth, SMD,
+Choke Drossel WE-PD4 TypX Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PDF
-Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf
-Choke Shielded Power Inductor WE-PDF Wuerth
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+Choke Drossel WE-PDF Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PDF_Handsoldering
-Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, Handsoldering, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf
-Choke Shielded Power Inductor WE-PDF Wuerth Handsoldering
+Choke, Drossel, WE-PDF, Handsoldering, Wuerth, SMD,
+Choke Drossel WE-PDF Handsoldering Wuerth SMD 
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-TPC-3816
-L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
-wurth wuerth smd inductor
+Inductor, WE-TPC, Wuerth, SMD, http://katalog.we-online.de/pbs/datasheet/744031220.pdf
+Inductor WE-TPC Wuerth SMD
 0
-2
+10
 2
 Inductor_THT
 Choke_EPCOS_B82722A
@@ -50392,62 +50147,6 @@ mounting hole 8.4mm m8
 0
 9
 1
-MyAntennas
-AN91445
-
-
-0
-2
-2
-MyAntennas
-DM00024648
-
-
-0
-6
-2
-MyAntennas
-SWRA117D
-
-
-0
-10
-2
-MyAntennas
-SWRA118-FL
-
-
-0
-2
-2
-MyAntennas
-SWRA350
-
-
-0
-12
-0
-MyAntennas
-SWRA416
-
-
-0
-28
-3
-MyAntennas
-SWRU120B
-
-
-0
-12
-2
-MyAntennas
-SXT214
-
-
-0
-4
-4
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -63224,30 +62923,9 @@ Skyworks
 7
 7
 RF_Antenna
-Abracon_APAES868R8060C16-T
-Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi
-APAES patch antenna
-0
-1
-1
-RF_Antenna
 Coilcraft_MA5532-AE_RFID
 RFID Transponder Coil
 antenna rfid coilcraft
-0
-2
-2
-RF_Antenna
-Johanson_2450AT18x100
-Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, -0.5dBi, https://www.johansontechnology.com/datasheets/2450AT18A100/2450AT18A100.pdf
-antenna
-0
-2
-2
-RF_Antenna
-Johanson_2450AT43F0100
-Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, 1dBi, https://www.johansontechnology.com/datasheets/2450AT43F0100/2450AT43F0100.pdf
-antenna
 0
 2
 2
@@ -63272,13 +62950,6 @@ PCB antenna
 0
 2
 2
-RF_Antenna
-Texas_SWRA416_868MHz_915MHz
-http://www.ti.com/lit/an/swra416/swra416.pdf
-PCB antenna
-0
-20
-1
 RF_Converter
 Anaren_0805_2012Metric-6
 https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf

@@ -2169,4 +2169,6 @@ LOW for DEBUG mode
 Connection ~ 15100 4150
 Wire Wire Line
 	13850 4150 15100 4150
+Text Notes 9750 4000 0    50   ~ 0
+!!Needs 1.8V for level shifters
 $EndSCHEMATC
