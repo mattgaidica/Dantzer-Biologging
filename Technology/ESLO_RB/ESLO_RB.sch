@@ -377,7 +377,7 @@ Wire Wire Line
 Wire Wire Line
 	1550 3150 1550 3250
 Text Notes 2400 3400 2    50   ~ 0
-(-3v)
+(-1.8v)
 $Comp
 L power:VDDA #PWR022
 U 1 1 5F3A3D77
@@ -1354,7 +1354,7 @@ F 0 "AE1" H 15030 2939 50  0000 L CNN
 F 1 "2450AT42B100" H 15030 2848 50  0000 L CNN
 F 2 "ARBO Parts:2450AT42B100" H 14950 2950 50  0001 C CNN
 F 3 "~" H 14950 2950 50  0001 C CNN
-F 4 "712-1600-1-ND" H 14950 2950 50  0001 C CNN "Digikey"
+F 4 "712-1008-1-ND‎" H 14950 2950 50  0001 C CNN "Digikey"
 	1    14950 2950
 	1    0    0    -1  
 $EndComp
@@ -1432,7 +1432,7 @@ MOSI
 Text GLabel 2300 7050 2    50   Input ~ 0
 SCLK
 Text GLabel 2050 1400 2    50   Input ~ 0
-RESET_N
+_RESET
 Wire Wire Line
 	2600 1300 3450 1300
 Text Notes 12400 800  0    50   ~ 0
@@ -2171,4 +2171,6 @@ Wire Wire Line
 	13850 4150 15100 4150
 Text Notes 9750 4000 0    50   ~ 0
 !!Needs 1.8V for level shifters
+Text Notes 3450 4200 0    50   ~ 0
+10nF = 10000pF
 $EndSCHEMATC
