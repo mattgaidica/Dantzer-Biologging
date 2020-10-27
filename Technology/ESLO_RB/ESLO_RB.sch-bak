@@ -2171,4 +2171,6 @@ Wire Wire Line
 	13850 4150 15100 4150
 Text Notes 9750 4000 0    50   ~ 0
 !!Needs 1.8V for level shifters
+Text Notes 3450 4200 0    50   ~ 0
+10nF = 10000pF
 $EndSCHEMATC
