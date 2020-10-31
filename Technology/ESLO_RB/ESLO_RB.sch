@@ -1646,8 +1646,6 @@ Text Notes 5150 1150 0    50   ~ 0
 SHARED CAP
 Text Notes 12250 1500 0    50   ~ 0
 UART\nUART
-Text Notes 12200 2150 2    50   ~ 0
-RD LED\nGR LED\nSPI\nSPI\nSPI
 Text Notes 11900 2550 0    50   ~ 0
 BTN1\nBTN2
 Text GLabel 4050 7200 2    50   Input ~ 0
@@ -1662,7 +1660,6 @@ NoConn ~ 12500 3750
 NoConn ~ 12500 3850
 NoConn ~ 12500 3950
 NoConn ~ 12500 4050
-NoConn ~ 15750 2450
 Text GLabel 12500 2750 0    50   Input ~ 0
 ~SHDN
 NoConn ~ 12500 2650
@@ -2173,4 +2170,6 @@ Text Notes 9750 4000 0    50   ~ 0
 !!Needs 1.8V for level shifters
 Text Notes 3450 4200 0    50   ~ 0
 10nF = 10000pF
+Text Notes 12200 2150 2    50   ~ 0
+GR LED\nSPI\nSPI\nSPI
 $EndSCHEMATC
