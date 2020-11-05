@@ -1644,8 +1644,6 @@ Text Notes 1950 3650 0    50   ~ 0
 SHARED
 Text Notes 5150 1150 0    50   ~ 0
 SHARED CAP
-Text Notes 12250 1500 0    50   ~ 0
-UART\nUART
 Text Notes 11900 2550 0    50   ~ 0
 BTN1\nBTN2
 Text GLabel 4050 7200 2    50   Input ~ 0
@@ -2172,4 +2170,8 @@ Text Notes 3450 4200 0    50   ~ 0
 10nF = 10000pF
 Text Notes 12200 2150 2    50   ~ 0
 GR LED\nSPI\nSPI\nSPI
+Text Notes 14150 4800 0    50   ~ 0
+*Need these for initial program/debug
+Text Notes 12250 1500 0    50   ~ 0
+UART\nUART
 $EndSCHEMATC
