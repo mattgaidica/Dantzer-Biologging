@@ -1,12 +1,12 @@
 Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey,Mouser
 1,Antenna,Antenna,AE1,2450AT42B100,2450AT42B100,1,~,712-1600-1-ND,
 2,Unpolarized capacitor,C,C3 C11 C15 C17 C20 C22 C23 C25 C26 C27 C28 C29,0.1uF,C_0402_1005Metric,12,~,490-6328-1-ND,
-3,Unpolarized capacitor,C,C10,10nF,C_0402_1005Metric,1,~,490-6326-2-ND,
-4,Unpolarized capacitor,C,C1 C2 C4 C6,10uF,C_0603_1608Metric,4,~,490-3896-1-ND,
-5,Unpolarized capacitor,C,C19,1nF,C_0402_1005Metric,1,~,490-6350-2-ND,
-6,Unpolarized capacitor,C,C5 C9 C14 C16 C18 C21 C24,1uF,C_0402_1005Metric,7,~,399-4873-1-ND,
-7,Unpolarized capacitor,C,C8 C12,2.2uF,C_0402_1005Metric,2,~,490-12532-1-ND,
-8,Unpolarized capacitor,C,C7,220nF,C_0402_1005Metric,1,~,490-14372-1-ND,
+3,Unpolarized capacitor,C,C7,0.22uF,C_0402_1005Metric,1,~,1276-1176-6-ND,
+4,Unpolarized capacitor,C,C10,10nF,C_0402_1005Metric,1,~,490-6326-2-ND,
+5,Unpolarized capacitor,C,C1 C2 C4 C6,10uF,C_0603_1608Metric,4,~,490-3896-1-ND,
+6,Unpolarized capacitor,C,C19,1nF,C_0402_1005Metric,1,~,490-6350-2-ND,
+7,Unpolarized capacitor,C,C5 C9 C14 C16 C18 C21 C24,1uF,C_0402_1005Metric,7,~,399-4873-1-ND,
+8,Unpolarized capacitor,C,C8 C12,2.2uF,C_0402_1005Metric,2,~,490-12532-1-ND,
 9,Unpolarized capacitor,C,C13,22uF,C_0603_1608Metric,1,~,1276-2867-1-ND,
 10,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN2 CN3,1000pF,0508_array,2,~,478-W2A45C102KAT2ACT-ND,
 11,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN4 CN5,1uF,0508_array,2,~,,581-W2L16D105MAT1A
@@ -47,6 +47,6 @@ Number of PCBs:,1
 Total components:,65
 Schematic Version:,
 Schematic Date:,
-BoM Date:,"Thursday, September 24, 2020 at 05:20:44 PM"
+BoM Date:,"Thursday, September 24, 2020 at 05:40:39 PM"
 Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ESLO_RB/ESLO_RB.sch
 KiCad Version:,Eeschema (5.1.5-0-10_14)

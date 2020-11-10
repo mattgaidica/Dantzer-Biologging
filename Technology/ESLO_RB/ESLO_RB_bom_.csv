@@ -1,19 +1,19 @@
 Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey,Mouser
-1,Antenna,Antenna,AE1,2450AT42B100,2450AT42B100,1,~,712-1600-1-ND,
+1,Antenna,Antenna,AE1,2450AT42B100,2450AT42B100,1,~,712-1008-1-ND‎,
 2,Unpolarized capacitor,C,C3 C11 C15 C17 C20 C22 C23 C25 C26 C27 C28 C29,0.1uF,C_0402_1005Metric,12,~,490-6328-1-ND,
-3,Unpolarized capacitor,C,C7,0.22uF,C_0402_1005Metric,1,~,1276-1176-6-ND,
-4,Unpolarized capacitor,C,C10,10nF,C_0402_1005Metric,1,~,490-6326-2-ND,
-5,Unpolarized capacitor,C,C1 C2 C4 C6,10uF,C_0603_1608Metric,4,~,490-3896-1-ND,
-6,Unpolarized capacitor,C,C19,1nF,C_0402_1005Metric,1,~,490-6350-2-ND,
+3,Unpolarized capacitor,C,C7,0.22uF,C_0402_1005Metric,1,~,1276-1176-1-ND,
+4,Unpolarized capacitor,C,C10,10nF,C_0402_1005Metric,1,~,1276-1051-1-ND,
+5,Unpolarized capacitor,C,C1 C2 C4 C6,10uF,C_0603_1608Metric,4,~,490-14372-1-ND,
+6,Unpolarized capacitor,C,C19,1nF,C_0402_1005Metric,1,~,478-1101-1-ND,
 7,Unpolarized capacitor,C,C5 C9 C14 C16 C18 C21 C24,1uF,C_0402_1005Metric,7,~,399-4873-1-ND,
-8,Unpolarized capacitor,C,C8 C12,2.2uF,C_0402_1005Metric,2,~,490-12532-1-ND,
+8,Unpolarized capacitor,C,C8 C12,2.2uF,C_0402_1005Metric,2,~,1276-1469-1-ND,
 9,Unpolarized capacitor,C,C13,22uF,C_0603_1608Metric,1,~,1276-2867-1-ND,
 10,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN2 CN3,1000pF,0508_array,2,~,478-W2A45C102KAT2ACT-ND,
 11,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN4 CN5,1uF,0508_array,2,~,,581-W2L16D105MAT1A
 12,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN1,4700pF,0508_array,1,~,,581-W2A41C472KAT2A
-13,Light emitting diode,LED,D1,LED,LED_0603_1608Metric,1,~,732-4971-1-ND,
-14,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J2,Board to Board,ARBO_IO6_1.27mm,1,~,H125100CT-ND,
-15,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10_Female,J1,Conn_01x10_Female,ARBO_IO10_1.27mm,1,~,H125102CT-ND,
+13,Light emitting diode,LED,D1,LED,LED_0603_1608Metric,1,~,SML-D12V1WT86CT-ND,
+14,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10_Female,J1,10POS Biopotentials,ARBO_IO10_1.27mm,1,~,ED10276-ND,
+15,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J2,6POS Power/JTAG,ARBO_IO6_1.27mm,1,~,ED10273-ND,
 16,Inductor,L,L3,1.5nH,L_0402_1005Metric,1,~,712-1411-1-ND,
 17,Inductor,L,L1,2.2uH,L_0805_2012Metric,1,~,490-7781-1-ND,
 18,Inductor,L,L4,3.3nH,L_0402_1005Metric,1,~,712-1416-1-ND,
@@ -47,6 +47,6 @@ Number of PCBs:,1
 Total components:,65
 Schematic Version:,
 Schematic Date:,
-BoM Date:,"Thursday, September 24, 2020 at 05:40:39 PM"
+BoM Date:,"Monday, November 09, 2020 at 09:39:22 AM"
 Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ESLO_RB/ESLO_RB.sch
 KiCad Version:,Eeschema (5.1.5-0-10_14)

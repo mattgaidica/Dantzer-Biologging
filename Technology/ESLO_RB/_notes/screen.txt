@@ -1,0 +1,5 @@
+Launch iTerm
+>> ls /dev/tty.*
+>> screen /dev/tty... 115200
+
+Exit using control+a, control+\, >> y
