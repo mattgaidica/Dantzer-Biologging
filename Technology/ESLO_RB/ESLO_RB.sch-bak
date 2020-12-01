@@ -2172,4 +2172,6 @@ Text Notes 12200 2150 2    50   ~ 0
 GR LED\nSPI\nSPI\nSPI
 Text Notes 14150 4800 0    50   ~ 0
 *Need these for initial program/debug
+Text Notes 12250 1500 0    50   ~ 0
+UART\nUART
 $EndSCHEMATC

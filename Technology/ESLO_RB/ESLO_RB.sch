@@ -2174,4 +2174,6 @@ Text Notes 14150 4800 0    50   ~ 0
 *Need these for initial program/debug
 Text Notes 12250 1500 0    50   ~ 0
 UART\nUART
+Text Notes 9950 8150 0    50   ~ 0
+X These are actually 0.1uF, 1uF doesn’t exist
 $EndSCHEMATC
