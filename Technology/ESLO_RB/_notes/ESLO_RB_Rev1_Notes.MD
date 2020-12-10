@@ -15,3 +15,7 @@ Here are some helpful links:
 * CC13xx/CC26xx Hardware Configuration and PCB Design Considerations (Rev. E)
 
 Alexis Rodriguez, a.rodriguez@ti.com
+
+Additions
+-
+* Add UART debugging pins/test points (2 pins, RX&TX)
