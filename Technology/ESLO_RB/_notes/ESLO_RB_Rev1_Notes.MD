@@ -29,7 +29,7 @@ __CMSIS__
 
 * This post is not relevant, seems to be for old versions of CMSIS [E2E Forums](https://e2e.ti.com/support/microcontrollers/other/f/908/t/640978?CCS-Issues-Setting-Up-CMSIS-DSP-in-CCS#pi320995=2)
 * Post on [Benchmarking FFTs](http://openaudio.blogspot.com/2016/09/benchmarking-fft-speed.html)
-* [CMSIS Docs](https://www.keil.com/pack/doc/CMSIS/DSP/html/group__RealFFT.html#ga5d2ec62f3e35575eba467d09ddcd98b5)
+* [CMSIS Docs](https://docs.silabs.com/cmsis/latest/dsp/group-RealFFT#ga180d8b764d59cbb85d37a2d5f7cd9799)
 
 1. Download CMSIS .pack from Github
 2. Unpack using >> unpack200 -r -v "/Users/matt/Downloads/CMSIS.pack" "/Users/matt/Downloads/CMSIS.jar"
