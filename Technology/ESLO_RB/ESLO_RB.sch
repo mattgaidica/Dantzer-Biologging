@@ -2176,4 +2176,6 @@ Text Notes 12250 1500 0    50   ~ 0
 UART\nUART
 Text Notes 9950 8150 0    50   ~ 0
 X These are actually 0.1uF, 1uF doesn’t exist
+Text Notes 3350 8650 0    50   ~ 0
+Tried replacing with 1M, voltage was inaccurate\n*200K across Vbatt = 13uA
 $EndSCHEMATC
