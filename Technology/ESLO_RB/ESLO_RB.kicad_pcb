@@ -11,7 +11,7 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
+    (0 F.Cu signal hide)
     (1 GNDD power hide)
     (2 VSSA power hide)
     (31 B.Cu mixed)

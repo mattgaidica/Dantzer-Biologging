@@ -22,7 +22,7 @@ Alexis Rodriguez, a.rodriguez@ti.com
 Additions
 -
 * Add UART debugging pins/test points (2 pins, RX&TX)
-* Should ADS1294 be on the LOAD power point (ie. switched)? It should only consume ~2.7uA if powered with SHDN on. Could still leave the +/-1.5V supplies on LOAD?
+* Better SPI probe points for debugging
 
 Fixes
 -
