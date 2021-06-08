@@ -4,16 +4,18 @@
 !.gitignore
 
 !Technology/
-Technology/*
-!Technology/ARBO\ Testbed
-!Technology/ARBO\ Mini
-!Technology/ARBO\ BT
-!Technology/ESLO
-!Technology/ESLO_PSP
-!Technology/ESLO_Debugger
-!Technology/ESLO_RB
-!Technology/NUTS
-!Technology/KiCad
+*.jpg
+*.JPG
+*.mov
+*.zip
+*.rar
+*.pdf
+*.png
+*.PNG
+*.eml
+*.webloc
+
+Technology/3D Models/*
 
 !assets
 !_layouts/

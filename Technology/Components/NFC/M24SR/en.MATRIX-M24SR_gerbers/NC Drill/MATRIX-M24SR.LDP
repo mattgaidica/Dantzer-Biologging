@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\USR\hugues\segment_tech_docs\contactless\HF\M24SR64\SynergieCAD\MATRIX-M24SR\gerber rev6\MATRIX-M24SR.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=matrix-m24sr-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=matrix-m24sr-nonplated.txt|LayerPairs=gtl,gbl

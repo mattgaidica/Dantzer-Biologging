@@ -1,0 +1,94 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : CC26xx_4x4_Ext_Reg_lvl_shifter.brd            )
+(    Software Version : 16.6S021                                      )
+(    Date/Time        : Wed Jan 21 14:10:38 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/CC26xx_4x4_Ext_Reg_lvl_shifter.brd';
+NEW_BOARD_NAME 'C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/CC26xx_4x4_Ext_Reg_lvl_shifter.brd';
+
+CmdLine: netrev -$ -i C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro -y 1 -z -v C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/#Taaaabj01664.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/pstchip.dat 
+   Finished reading C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/pstchip.dat (00:00:00.05)
+Starting to read C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/pstxprt.dat 
+   Finished reading C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/pstxnet.dat 
+   Finished reading C:/DesignSync_WORKDIR/evm/em/CC26xx/CC26xx_Customer_EM/4x4/Ext_Regulator/Cadence/Allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           x:/Footprints 
+           x:/padstacks 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           x:/padstacks 
+           x:/Footprints 
+           X:/Vias/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 21 14:10:38 2015
+   DESIGN NAME : 'CC26XX_4X4_EXT_REG'
+   PACKAGING ON Oct 28 2013 13:12:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      5:40:47
+elapsed time  0:03:24
+

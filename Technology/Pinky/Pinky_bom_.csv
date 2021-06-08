@@ -1,0 +1,51 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey
+1,Antenna,Antenna,AE1 AE2,Antenna,Linx_Ant_Screw,2,~,ANT-315-PW-LP-ND
+2,Unpolarized capacitor,C,C7,.039uF,C_0603_1608Metric,1,~,311-4072-1-ND
+3,Unpolarized capacitor,C,C6,1.8pF,C_0603_1608Metric,1,~,490-9667-2-ND
+4,Unpolarized capacitor,C,C3 C5,15pF,C_0402_1005Metric,2,~,399-8947-1-ND
+5,Unpolarized capacitor,C,C9,1uF,C_0603_1608Metric,1,~,1276-1182-1-ND
+6,Unpolarized capacitor,C,C8 C10,2.2uF,C_0603_1608Metric,2,~,399-7886-1-ND
+7,Unpolarized capacitor,C,C2,220pF,C_0402_1005Metric,1,~,490-6220-1-ND
+8,Unpolarized capacitor,C,C4,22pF,C_0402_1005Metric,1,~,490-5868-1-ND
+9,Unpolarized capacitor,C,C1,680pF,C_0402_1005Metric,1,~,399-1027-1-ND
+10,Light emitting diode,LED,D1,+3.3V,D_0603_1608Metric,1,~,732-4971-1-ND
+11,Light emitting diode,LED,D2,+5V,D_0603_1608Metric,1,~,732-4971-1-ND
+12,Light emitting diode,LED,D4,+6V,D_0603_1608Metric,1,~,732-4971-1-ND
+13,Light emitting diode,LED,D3,-6V,D_0603_1608Metric,1,~,732-4971-1-ND
+14,Light emitting diode,LED,D5,PINK_EN,D_0603_1608Metric,1,~,732-4978-1-ND
+15,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J4,SPEAKER,TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal,1,~,277-1860-ND
+16,"Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x04,J2 J3,SPI CONN,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,2,~,277-1860-ND
+17,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J1,TX CONN,PinHeader_1x04_P2.54mm_Vertical,1,~,
+18,Inductor,L,L1,22nH,L_0402_1005Metric,1,~,712-1455-1-ND
+19,Inductor,L,L2,27nH,L_0402_1005Metric,1,~,712-1413-1-ND
+20,Capacitor symbol for simulation only,INDUCTOR,L3,56nH,L_0603_1608Metric,1,~,712-1443-1-ND
+21,Resistor,R,R1,0,R_0402_1005Metric,1,~,1276-3480-1-ND
+22,Resistor,R,R2 R3 R4 R6 R8,2.2k,R_0603_1608Metric,5,~,P2.2KGCT-ND
+23,Resistor,R,R5 R7,4.7k,R_0603_1608Metric,2,~,RR08P4.7KDCT-ND
+24,Potentiometer,R_POT,RV1,5k,Potentiometer_Bourns_3314J_Vertical,1,~,ST4ETA502CT-ND
+25,"150mA low dropout linear regulator, wide input voltage range, 5.0V fixed positive output, SOT-23-5 package",AP2204K-5.0,U7,AP2204K-5.0,SOT-23-5,1,https://www.diodes.com/assets/Datasheets/AP2204.pdf,AP2204K-5.0TRG1DICT-ND
+26,,Adalogger,U4,Adalogger,Adafruit_feather,1,,1528-1539-ND
+27,,MAX1472,U1,MAX1472,SOT-23-8,1,,MAX1472AKA+TCT-ND
+28,Microchip Technology Digital Temperature Sensor MSOP,MCP9804_MSOP,U3,MCP9808_MSOP,MSOP-8_3x3mm_P0.65mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf,MCP9808T-E/MSCT-ND
+29,,MICRF007,U2,MICRF007,SOIC-8_3.9x4.9mm_P1.27mm,1,,576-1334-ND
+30,,NOISE2,U6,NOISE2,DIP-8_W7.62mm,1,,AE9986-ND
+31,,SN74LVC,U8,SN74LVC,SOT-353_SC-70-5,1,,296-13254-1-ND
+32,"Single Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8",TL071,U9,TL071,SOIC-8_3.9x4.9mm_P1.27mm,1,http://www.ti.com/lit/ds/symlink/tl071.pdf,296-14994-1-ND
+33,,VEML7700,U5,VEML7700,VEML7700,1,,VEML7700CT-ND
+34,Two pin crystal,Crystal,Y2,4.8970MHz,Crystal_SMD_HC49-SD,1,~,535-9688-1-ND
+35,Two pin crystal,Crystal,Y1,9.84375MHz,Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm,1,~,535-13417-1-ND
+
+
+
+
+
+Component Groups:,35
+Component Count:,44
+Fitted Components:,44
+Number of PCBs:,1
+Total components:,44
+Schematic Version:,
+Schematic Date:,
+BoM Date:,"Tuesday, June 30, 2020 at 06:02:59 PM"
+Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/Pinky/Pinky.sch
+KiCad Version:,Eeschema (5.1.5-0-10_14)

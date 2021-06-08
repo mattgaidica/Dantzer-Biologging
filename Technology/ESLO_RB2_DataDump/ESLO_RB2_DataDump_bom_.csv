@@ -1,0 +1,25 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey
+1,Unpolarized capacitor,C,C2,10uF,C_0603_1608Metric,1,~,478-8050-1-ND
+2,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08_Female,J1,Conn_01x08_Female,8pin_1-27pitch_SMD,1,~,ED90570-ND
+3,Capacitor symbol for simulation only,INDUCTOR,L1,2.2uH,L_0805_2012Metric,1,~,490-4994-1-ND
+4,Resistor,R,R1 R2,10k,R_0603_1608Metric,2,~,CR0603-JW-103ELFCT-ND
+5,Resistor,R,R3 R4,8.25k,R_0603_1608Metric,2,~,RMCF0603FT8K25CT-ND
+6,Double Pole Single Throw (DPST) Switch,SW_DPST,SW1,SW_DPST,SW_SPST_TL3305A,1,~,EG5353CT-ND
+7,,Adalogger,U2,Adalogger,Adafruit_feather,1,,1528-1539-ND
+8,,SN74ACX1T45,U3 U4,SN74ACX1T45,SOT-363_SC-70-6,2,,296-SN74AXC1T45QDCKRQ1CT-ND
+9,,TPS62243_WSON,U1,TPS62243_WSON,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,,TPS62243DRVR
+
+
+
+
+
+Component Groups:,9
+Component Count:,12
+Fitted Components:,12
+Number of PCBs:,1
+Total components:,12
+Schematic Version:,
+Schematic Date:,
+BoM Date:,"Wednesday, June 02, 2021 at 09:34:16 AM"
+Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ESLO_RB2_DataDump/ESLO_RB2_DataDump.sch
+KiCad Version:,Eeschema (5.1.5-0-10_14)

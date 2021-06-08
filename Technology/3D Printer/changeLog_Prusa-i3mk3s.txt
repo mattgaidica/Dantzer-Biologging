@@ -1,0 +1,12 @@
+20200316
+- 3D printer delivered by Chris
+- Auto-home was not working, wouldn't calibrate, grinding sound on y-axis
+- Tried loosening y-axis belt a little, no change
+- Tried loosening y-axis u-bolt (bearing), no change
+- Found y-axis was binding without motor/belt attached
+-- Removed heatbed, removed y-axis plate: bearings still binding to rods
+-- Removed and cleaned rods with isopropyl, no change
+-- Oiled bearings and rods, now they glide freely! Put back together
+- Everything works: re-calibrated xyz, first layer (didn't realize filament was PETG)
+-- only calibrating/testing with supplied filament
+- Successfully printed PETG squirrel, switching to own PLA filament

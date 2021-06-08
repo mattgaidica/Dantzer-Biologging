@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Adafruit_FeatherWing)(type KiCad)(uri "$(KIPRJMOD)/Adafruit_FeatherWing.pretty")(options "")(descr ""))
+  (lib (name ARBO)(type KiCad)(uri "/Users/mattgaidica/Dropbox/Projects/ARBO/PCB/ARBO Parts")(options "")(descr ""))
+)

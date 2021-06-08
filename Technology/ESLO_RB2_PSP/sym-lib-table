@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ARBO_library)(type Legacy)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/ARBO Parts/ARBO_library.lib")(options "")(descr ""))
+  (lib (name MyAntennas)(type Legacy)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/PCB_Antenna_Lib/MyAntennas.lib")(options "")(descr ""))
+  (lib (name ESLO_Library)(type Legacy)(uri "/Users/matt/Box Sync/Biologging/Technology/KiCad/ESLO Parts/ESLO_Library.lib")(options "")(descr ""))
+)

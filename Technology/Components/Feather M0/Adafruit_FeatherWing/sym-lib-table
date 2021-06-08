@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Adafruit_FeatherWing-rescue)(type Legacy)(uri ${KIPRJMOD}/Adafruit_FeatherWing-rescue.lib)(options "")(descr ""))
+  (lib (name ARBO)(type Legacy)(uri "/Users/mattgaidica/Dropbox/Projects/ARBO/PCB/ARBO Parts/ARBO_library.lib")(options "")(descr ""))
+)

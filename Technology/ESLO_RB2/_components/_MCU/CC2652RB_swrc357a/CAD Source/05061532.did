@@ -1,0 +1,11 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v17-2-50 made 2016/05/25 at 18:32:05
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : D:\PMP_PCB\PMP EVM ARCHIVE\MCU_Numbers\MCU067\CAD Source\MCU067A.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : D:\PMP_PCB\PMP EVM ARCHIVE\MCU_Numbers\MCU067\CAD Source\monitor.sts
+quit -c

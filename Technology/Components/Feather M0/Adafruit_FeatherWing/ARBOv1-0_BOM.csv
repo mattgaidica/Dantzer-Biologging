@@ -1,0 +1,50 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Manf#,Digikey#,Optn,Manf
+1,Loop antenna,Antenna_Loop,AE1,4.7uH,PA6512-AED,1,~,,,,
+2,Unpolarized capacitor,C,C37 C38,0.01uF,C_0603_1608Metric,2,~,C0603C103KARACAUTO,399-17960-1-ND,,
+3,Unpolarized capacitor,C,C9 C22 C25 C28 C30 C33 C34 C36 C39 C40,0.1uF,C_0603_1608Metric,10,~,C0603C104K8RACTU,399-1095-1-ND,,
+4,Unpolarized capacitor,C,C31,1.5nF,C_0805_2012Metric,1,~,C0805C152KDRACAUTO,399-16647-1-ND,,
+5,Unpolarized capacitor,C,C6 C15 C35,1000pF,C_0603_1608Metric,3,~,CL10C102JB8NNNC,1276-1091-1-ND,,
+6,Unpolarized capacitor,C,C20,100uF,C_1210_3225Metric,1,~,JMK325BJ107MY-T,587-1388-1-ND,,
+7,Unpolarized capacitor,C,C4 C5,10pF,C_0603_1608Metric,2,~,C0603C100D5GACTU,399-7815-1-ND,,
+8,Unpolarized capacitor,C,C10 C11 C13,10uF,C_0603_1608Metric,3,~,GRM188R61A106KE69J,490-14372-1-ND,,
+9,Unpolarized capacitor,C,C29,10uF,C_0805_2012Metric,1,~,CL21A106KPFNNNG,1276-6456-1-ND,,
+10,"Polarized capacitor, US symbol",CP1,C1 C2 C3,1uF,C_0603_1608Metric,3,~,CL10A105KA8NNNC,1276-1102-1-ND,,
+11,Unpolarized capacitor,C,C7 C8 C12 C14 C21 C23 C24 C26 C27 C32,1uF,C_0603_1608Metric,10,~,CL10A105KA8NNNC,1276-1102-1-ND,,
+12,Unpolarized capacitor,C,C16 C17 C18 C19,4.7pF,C_0603_1608Metric,4,~,CL10B472KB8NNNC,1276-1098-1-ND,,
+13,Light emitting diode,LED,D1,BLUE,LED_0603_1608Metric,1,~,LTST-C193TBKT-5A,160-1827-1-ND,,
+14,Light emitting diode,LED,D2,GREEN,LED_0603_1608Metric,1,~,LTST-C191KGKT,160-1446-1-ND,,
+15,Light emitting diode,LED,D3,RED,LED_0603_1608Metric,1,~,LTST-C190KRKT,160-1436-1-ND,,
+16,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J3,Conn_01x02_Female,ARBO_THERM2,1,~,,,,
+17,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J1 J2,ECoG_CONN,ARBO_IO6,2,~,,,,
+18,,CONN_01X12,JP3,PinHeader_01x12_2.54mm,Conn_PinHeader_1x12,1,,M20-9991245,952-3302-ND,,
+19,,CONN_01X16,JP1,PinHeader_01x16_2.54mm,Conn_PinHeader_1x16,1,,M20-9991645,952-3304-ND,_,_
+20,Resistor,R,R3,0,R_0603_1608Metric,1,~,RC1608J000CS,1276-3510-1-ND,,
+21,Resistor,R,R15 R20,100,R_0603_1608Metric,2,~,CPF0603F100RC1,A102200CT-ND,,
+22,Resistor,R,R12 R13 R16 R17 R18 R19,10k,R_0603_1608Metric,6,~,RNCP0603FTD10K0,RNCP0603FTD10K0CT-ND,,
+23,Resistor,R,R10,1M,R_0603_1608Metric,1,~,RC0603FR-071ML,311-1.00MHRCT-ND,,
+24,Resistor,R,R14 R21 R22,220,R_0603_1608Metric,3,~,CRGCQ0603J220R,A130087CT-ND,,
+25,Resistor,R,R5 R6 R7 R8 R9 R11,4.99k,R_0603_1608Metric,6,~,RC0603FR-074K99L,311-4.99KHRCT-ND,,
+26,Resistor,R,R1 R2,49.9k,R_0603_1608Metric,2,~,RC0603FR-0749K9L,311-49.9KHRCT-ND,,
+27,Resistor,R,R4,499K,R_0603_1608Metric,1,~,CRCW0603499KFKTA,541-3001-1-ND,,
+28,,ADS1299,U4,ADS1299,TQFP-64_10x10mm_P0.5mm,1,,ADS1299-4PAGR,296-45228-1-ND,,
+29,,M24LR04E,U5,M24LR04E,TSSOP-8_4.4x3mm_P0.65mm,1,,M24LR04E-RMN6T/2,497-12878-1-ND,,
+30,,MAX1726EUK18+,U2,MAX1726EUK18+,SOT-23-5,1,,MAX1726EUK18+T,MAX1726EUK18+T-ND,,
+31,,MAX30003,U1,MAX30003,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,1,,MAX30003CTI+T,MAX30003CTI+TCT-ND,,
+32,"Precision Thermocouple to Digital Converter with Linearization, TSSOP-14",MAX31856,U7,MAX31856,TSSOP-14_4.4x5mm_P0.65mm,1,https://datasheets.maximintegrated.com/en/ds/MAX31856.pdf,MAX31856MUD+,MAX31856MUD+-ND,,
+33,,MAX828,U3,MAX828,SOT-23-5,1,,MAX828EUK+T,MAX828EUK+TCT-ND,,
+34,"InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI",MPU-9250,U6,MPU-9250,InvenSense_QFN-24_3x3mm_P0.4mm,1,https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf,MPU-9250,1428-1019-1-ND,,
+
+
+
+
+
+Component Groups:,34
+Component Count:,78
+Fitted Components:,78
+Number of PCBs:,1
+Total components:,78
+Schematic Version:,
+Schematic Date:,sam. 04 avril 2015
+BoM Date:,"Monday, June 03, 2019 at 06:41:01 PM"
+Schematic Source:,/Users/mattgaidica/Dropbox/Projects/ARBO/PCB/Arduino M0/Adafruit_FeatherWing/Adafruit_FeatherWing.sch
+KiCad Version:,Eeschema (5.1.2-1)-1

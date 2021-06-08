@@ -1,0 +1,295 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x03_Male J1
+U 1 1 5F7372D7
+P 2200 1700
+F 0 "J1" H 2100 1800 50  0000 C CNN
+F 1 "LP-P10" H 2000 1700 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 2200 1700 50  0001 C CNN
+F 3 "~" H 2200 1700 50  0001 C CNN
+F 4 "A19430-ND" H 2200 1700 50  0001 C CNN "Digikey"
+	1    2200 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LP5907MFX-1.8 U1
+U 1 1 5F737F4C
+P 4750 2650
+F 0 "U1" H 4750 3017 50  0000 C CNN
+F 1 "LP5907MFX-1.8" H 4750 2926 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4750 3000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" H 4750 3150 50  0001 C CNN
+F 4 "296-41463-1-ND" H 4750 2650 50  0001 C CNN "Digikey"
+	1    4750 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 2550 4450 2650
+$Comp
+L Device:C C1
+U 1 1 5F73883A
+P 4200 2700
+F 0 "C1" H 4315 2746 50  0000 L CNN
+F 1 "1uF" H 4315 2655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 4238 2550 50  0001 C CNN
+F 3 "~" H 4200 2700 50  0001 C CNN
+	1    4200 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 2550 4450 2550
+Connection ~ 4450 2550
+$Comp
+L Device:C C2
+U 1 1 5F739217
+P 5150 2700
+F 0 "C2" H 5265 2746 50  0000 L CNN
+F 1 "1uF" H 5265 2655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5188 2550 50  0001 C CNN
+F 3 "~" H 5150 2700 50  0001 C CNN
+	1    5150 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 2550 5150 2550
+Wire Wire Line
+	5150 2850 5150 2950
+Wire Wire Line
+	5150 2950 4750 2950
+Wire Wire Line
+	4200 2850 4200 2950
+Wire Wire Line
+	4200 2950 4750 2950
+Connection ~ 4750 2950
+$Comp
+L power:GND #PWR0101
+U 1 1 5F73A294
+P 4750 2950
+F 0 "#PWR0101" H 4750 2700 50  0001 C CNN
+F 1 "GND" H 4755 2777 50  0000 C CNN
+F 2 "" H 4750 2950 50  0001 C CNN
+F 3 "" H 4750 2950 50  0001 C CNN
+	1    4750 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_ARM_JTAG_SWD_10 J2
+U 1 1 5F73AB97
+P 2550 2800
+F 0 "J2" H 2107 2846 50  0000 R CNN
+F 1 "LP-P7" H 2107 2755 50  0000 R CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 2550 2800 50  0001 C CNN
+F 3 "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf" V 2200 1550 50  0001 C CNN
+F 4 "SAM13165CT-ND" H 2550 2800 50  0001 C CNN "Digikey"
+	1    2550 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+1V8 #PWR0102
+U 1 1 5F741435
+P 5150 2550
+F 0 "#PWR0102" H 5150 2400 50  0001 C CNN
+F 1 "+1V8" H 5165 2723 50  0000 C CNN
+F 2 "" H 5150 2550 50  0001 C CNN
+F 3 "" H 5150 2550 50  0001 C CNN
+	1    5150 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 5150 2550
+$Comp
+L Connector:Conn_01x06_Male J3
+U 1 1 5F741C90
+P 7000 2650
+F 0 "J3" H 6972 2532 50  0000 R CNN
+F 1 "ESLO-J2" H 6972 2623 50  0000 R CNN
+F 2 "ARBO Parts:ARBO_IO6_1.27mm" H 7000 2650 50  0001 C CNN
+F 3 "~" H 7000 2650 50  0001 C CNN
+	1    7000 2650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 5F75ADCC
+P 2400 1600
+F 0 "#PWR0103" H 2400 1450 50  0001 C CNN
+F 1 "+3.3V" H 2415 1773 50  0000 C CNN
+F 2 "" H 2400 1600 50  0001 C CNN
+F 3 "" H 2400 1600 50  0001 C CNN
+	1    2400 1600
+	1    0    0    -1  
+$EndComp
+Text Notes 2300 1350 0    50   ~ 0
+ET_VDD
+$Comp
+L power:+1V8 #PWR0104
+U 1 1 5F75BD00
+P 2750 1600
+F 0 "#PWR0104" H 2750 1450 50  0001 C CNN
+F 1 "+1V8" H 2765 1773 50  0000 C CNN
+F 2 "" H 2750 1600 50  0001 C CNN
+F 3 "" H 2750 1600 50  0001 C CNN
+	1    2750 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 1700 2750 1700
+Wire Wire Line
+	2750 1700 2750 1600
+Text Notes 2650 1350 0    50   ~ 0
+LS_VDD
+NoConn ~ 2400 1800
+Text Notes 2450 1850 0    50   ~ 0
+WMCU_VDD
+Wire Wire Line
+	2450 3400 2550 3400
+$Comp
+L power:GND #PWR0105
+U 1 1 5F75D1CA
+P 2550 3400
+F 0 "#PWR0105" H 2550 3150 50  0001 C CNN
+F 1 "GND" H 2555 3227 50  0000 C CNN
+F 2 "" H 2550 3400 50  0001 C CNN
+F 3 "" H 2550 3400 50  0001 C CNN
+	1    2550 3400
+	1    0    0    -1  
+$EndComp
+Connection ~ 2550 3400
+Text GLabel 3050 2800 2    50   Input ~ 0
+JTAG_TMSC
+Text GLabel 3050 2700 2    50   Input ~ 0
+JTAG_TCKC
+Text GLabel 3050 2500 2    50   Input ~ 0
+_RESET
+NoConn ~ 3050 2900
+NoConn ~ 3050 3000
+$Comp
+L power:+1V8 #PWR0106
+U 1 1 5F75DB84
+P 2550 2200
+F 0 "#PWR0106" H 2550 2050 50  0001 C CNN
+F 1 "+1V8" H 2565 2373 50  0000 C CNN
+F 2 "" H 2550 2200 50  0001 C CNN
+F 3 "" H 2550 2200 50  0001 C CNN
+	1    2550 2200
+	1    0    0    -1  
+$EndComp
+Text GLabel 6800 2650 0    50   Input ~ 0
+_RESET
+Text GLabel 6800 2750 0    50   Input ~ 0
+JTAG_TMSC
+Text GLabel 6800 2850 0    50   Input ~ 0
+JTAG_TCKC
+$Comp
+L power:+3.3V #PWR0107
+U 1 1 5F7632F2
+P 6800 2450
+F 0 "#PWR0107" H 6800 2300 50  0001 C CNN
+F 1 "+3.3V" H 6815 2623 50  0000 C CNN
+F 2 "" H 6800 2450 50  0001 C CNN
+F 3 "" H 6800 2450 50  0001 C CNN
+	1    6800 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 2550 6250 2550
+$Comp
+L power:GND #PWR0108
+U 1 1 5F77BE40
+P 6250 2950
+F 0 "#PWR0108" H 6250 2700 50  0001 C CNN
+F 1 "GND" H 6255 2777 50  0000 C CNN
+F 2 "" H 6250 2950 50  0001 C CNN
+F 3 "" H 6250 2950 50  0001 C CNN
+	1    6250 2950
+	1    0    0    -1  
+$EndComp
+Text Notes 6450 3050 0    50   ~ 0
+_DEBUG
+Wire Wire Line
+	6250 2550 6250 2950
+Wire Wire Line
+	6800 2950 6250 2950
+Connection ~ 6250 2950
+$Comp
+L Device:Battery_Cell BT1
+U 1 1 5F77D3B3
+P 3800 2750
+F 0 "BT1" H 3918 2846 50  0000 L CNN
+F 1 "Coin" H 3918 2755 50  0000 L CNN
+F 2 "Battery:BatteryHolder_Keystone_1058_1x2032" V 3800 2810 50  0001 C CNN
+F 3 "~" V 3800 2810 50  0001 C CNN
+F 4 "36-1058-ND" H 3800 2750 50  0001 C CNN "Digikey"
+	1    3800 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 2550 4200 2550
+Connection ~ 4200 2550
+Wire Wire Line
+	3800 2850 3800 2950
+Wire Wire Line
+	3800 2950 4200 2950
+Connection ~ 4200 2950
+$Comp
+L Device:LED D1
+U 1 1 5F78AB4A
+P 5600 2700
+F 0 "D1" V 5547 2778 50  0000 L CNN
+F 1 "LED" V 5638 2778 50  0000 L CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5600 2700 50  0001 C CNN
+F 3 "~" H 5600 2700 50  0001 C CNN
+	1    5600 2700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5600 2850 5600 2950
+Wire Wire Line
+	5600 2950 5150 2950
+Connection ~ 5150 2950
+Wire Wire Line
+	5600 2550 5150 2550
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5F790810
+P 5600 2550
+F 0 "TP1" H 5658 2668 50  0000 L CNN
+F 1 "TestPoint" H 5658 2577 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Keystone_5000-5004_Miniature" H 5800 2550 50  0001 C CNN
+F 3 "~" H 5800 2550 50  0001 C CNN
+F 4 "36-5000-ND" H 5600 2550 50  0001 C CNN "Digikey"
+	1    5600 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 5600 2550
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5F79127B
+P 6250 2550
+F 0 "TP2" H 6308 2668 50  0000 L CNN
+F 1 "TestPoint" H 6308 2577 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Keystone_5000-5004_Miniature" H 6450 2550 50  0001 C CNN
+F 3 "~" H 6450 2550 50  0001 C CNN
+F 4 "36-5000-ND" H 6250 2550 50  0001 C CNN "Digikey"
+	1    6250 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 6250 2550
+Text Notes 3600 3350 0    50   ~ 0
+Uses a coin cell to not\ninterfere with EnergyTrace.\n\n*Coin cell does not power MCU
+Text Notes 7050 2600 0    50   ~ 0
+PWR\nGND
+$EndSCHEMATC
