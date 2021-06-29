@@ -16,14 +16,14 @@ $EndDescr
 $Comp
 L Connector_Generic:Conn_02x03_Odd_Even J1
 U 1 1 60BE1518
-P 3550 1100
-F 0 "J1" H 3600 1417 50  0000 C CNN
-F 1 "Conn_02x03_Counter_Clockwise" H 3600 1326 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 3550 1100 50  0001 C CNN
-F 3 "~" H 3550 1100 50  0001 C CNN
-F 4 "A106656-ND" H 3550 1100 50  0001 C CNN "Digikey"
-	1    3550 1100
-	-1   0    0    1   
+P 3450 1100
+F 0 "J1" H 3450 900 50  0000 C CNN
+F 1 "Conn_02x03_Counter_Clockwise" H 3900 1300 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 3450 1100 50  0001 C CNN
+F 3 "~" H 3450 1100 50  0001 C CNN
+F 4 "A106656-ND" H 3450 1100 50  0001 C CNN "Digikey"
+	1    3450 1100
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:Battery_Cell BT1
@@ -69,7 +69,6 @@ F 3 "" H 3250 1400 50  0001 C CNN
 	1    3250 1400
 	1    0    0    -1  
 $EndComp
-Connection ~ 3250 1200
 Wire Wire Line
 	3250 1000 2900 1000
 Wire Wire Line
@@ -81,4 +80,5 @@ NoConn ~ 3750 1000
 NoConn ~ 3750 1100
 NoConn ~ 3750 1200
 NoConn ~ 3250 1100
+Connection ~ 3250 1200
 $EndSCHEMATC

@@ -454,5 +454,5 @@ Text GLabel 4400 2600 0    50   Input ~ 0
 RXD
 Connection ~ 1300 1900
 Text Notes 1150 1100 0    50   ~ 0
-No cap needed, 3.3V is regulated on Adalogger
+!! Add input cap, this design will fail
 $EndSCHEMATC
