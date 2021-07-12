@@ -2182,7 +2182,7 @@ Wire Wire Line
 Text Notes 12450 2250 0    50   ~ 0
 Use 0603 for compatability with BAW version (reqs 10uF)
 Text Notes 2200 1700 0    50   ~ 0
-This PCB layout needs work, see datasheet and reference design
+This PCB layout needs work (there’s a power pad!), see datasheet and reference design
 Text Notes 350  350  0    50   ~ 0
 Need to be careful about shared caps, can lead to unstable power supplies
 $EndSCHEMATC
