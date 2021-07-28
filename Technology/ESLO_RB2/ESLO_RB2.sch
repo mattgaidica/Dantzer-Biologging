@@ -1072,7 +1072,7 @@ SHARED\nTPS723 rec 2.2uF\nMAX1720 rec 10uF
 Text Notes 2150 2150 0    50   ~ 0
 SHARED CAP
 Text Notes 10450 2500 0    50   ~ 0
-BTN1\nBTN2
+BTN1
 Text GLabel 11050 2150 0    50   Input ~ 0
 SCLK
 Text GLabel 11050 2050 0    50   Input ~ 0
@@ -1522,8 +1522,8 @@ Wire Wire Line
 	10200 6100 10300 6100
 Connection ~ 15300 8450
 NoConn ~ 11050 1550
-Text Notes 10100 2600 0    50   ~ 0
-Use int pull-up
+Text Notes 9850 2600 0    50   ~ 0
+Use int pull-up, BTN2
 Text Notes 7450 4300 0    50   ~ 0
 LOW for DEBUG mode\nUse ED8250-ND 50-pos pins to interface
 Connection ~ 13000 4150

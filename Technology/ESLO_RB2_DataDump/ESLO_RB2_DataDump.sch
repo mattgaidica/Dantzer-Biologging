@@ -129,17 +129,6 @@ TXD
 Text GLabel 2100 3300 2    50   Input ~ 0
 DEBUG
 $Comp
-L power:+1V8 #PWR0104
-U 1 1 60BAD4A6
-P 1550 2900
-F 0 "#PWR0104" H 1550 2750 50  0001 C CNN
-F 1 "+1V8" H 1565 3073 50  0000 C CNN
-F 2 "" H 1550 2900 50  0001 C CNN
-F 3 "" H 1550 2900 50  0001 C CNN
-	1    1550 2900
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0105
 U 1 1 60BADC98
 P 1550 3000
@@ -455,4 +444,17 @@ RXD
 Connection ~ 1300 1900
 Text Notes 1150 1100 0    50   ~ 0
 !! Add input cap, this design will fail
+Text Notes 900  3000 2    50   ~ 0
+!!changed to 3.3V from 1.8V\nmistake on PCB
+$Comp
+L power:+3V3 #PWR?
+U 1 1 60F1A17C
+P 1550 2900
+F 0 "#PWR?" H 1550 2750 50  0001 C CNN
+F 1 "+3V3" H 1565 3073 50  0000 C CNN
+F 2 "" H 1550 2900 50  0001 C CNN
+F 3 "" H 1550 2900 50  0001 C CNN
+	1    1550 2900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
